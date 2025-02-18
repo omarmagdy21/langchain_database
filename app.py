@@ -63,11 +63,13 @@ def plot_leaderboard(df):
             tickangle=-45, 
             showgrid=False,
             tickfont=dict(color="black"),  # Set x-axis text color to black
+            title=dict(size=16, color="black"),  # Set x-axis title color to black
         ),
         yaxis=dict(
             showgrid=True, 
             gridcolor="lightgray",
-            tickfont=dict(color="black"),  # Set y-axis text color to black
+            tickfont=dict(color="black"),
+            title = dict(size = 16, color = "black")  # Set y-axis text color to black
         ),
         font=dict(size=14, color="black"),  # Set global font color to black
     )
