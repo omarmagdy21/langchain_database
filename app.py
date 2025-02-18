@@ -46,7 +46,7 @@ def plot_leaderboard(df):
     bar_color = "#773095"  # Lighter purple shade
 
     # Create the plot
-    fig, ax = plt.subplots(figsize=(12, 6), facecolor=background_color)
+    fig, ax = plt.subplots(figsize=(12, 6), facecolor=background_color, dpi=400)
     ax.set_facecolor(background_color)
 
     # Plot bar chart
