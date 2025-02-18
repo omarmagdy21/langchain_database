@@ -57,19 +57,17 @@ def plot_leaderboard(df):
         plot_bgcolor="#F9F9F9",
         paper_bgcolor="#FFFFFF",
         title_font=dict(size=20, color="#773095"),
-        xaxis_title="Username",
-        yaxis_title="Number of prompts",
         xaxis=dict(
             tickangle=-45, 
             showgrid=False,
             tickfont=dict(color="black"),  # Set x-axis text color to black
-            title=dict(size=16, color="black"),  # Set x-axis title color to black
+            title=dict(text="Username", font=dict(color="black")),  # Set x-axis title color to black
         ),
         yaxis=dict(
             showgrid=True, 
             gridcolor="lightgray",
-            tickfont=dict(color="black"),
-            title = dict(size = 16, color = "black")  # Set y-axis text color to black
+            tickfont=dict(color="black"),  # Set y-axis text color to black
+            title=dict(text="Number of prompts", font=dict(color="black")),  # Set y-axis title color to black
         ),
         font=dict(size=14, color="black"),  # Set global font color to black
     )
@@ -81,6 +79,7 @@ def plot_leaderboard(df):
     )
 
     return fig
+
 
 # Streamlit app
 def main():
