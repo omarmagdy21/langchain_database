@@ -1,0 +1,2585 @@
+username,input,output,run_id
+SALAH,Hello what about M2 in KEDGE,"The information regarding a specific ""M2"" program at KEDGE Business School is not available in the provided database. However, KEDGE offers a ""Master in Management (Master Grande École)"" with various specializations for BAC3 level entry. If you need details about those programs, please let me know!",0803e9ef-81bd-4b7e-a0cb-c142f4561648
+SALAH,Can you propose me the best M2 in French in Fiannc e?,The information regarding specific M2 programs in Finance is not available in the provided database.,081274d7-5417-4ccc-a33a-82c4fb2a5473
+Amna ,Some that are related,"Here are some related programs that may interest you, although they are not specifically software engineering:
+
+1. **School**: RUBIKA  
+   **Program Name**: Formation Game Design  
+   **City**: Valenciennes  
+   **Price**: 9,450  
+   **Length**: 5.0 years  
+   **Language**: French  
+
+2. **School**: RUBIKA  
+   **Program Name**: Formation Game Programming  
+   **City**: Valenciennes  
+   **Price**: 9,450  
+   **Length**: 5.0 years  
+   **Language**: French  
+
+3. **School**: IDRAC (FIGS Group)  
+   **Program Name**: Bachelor in Marketing & Business  
+   **City**: Various (Bordeaux, Grenoble, Lyon, Montpellier, Nantes, Nice, Paris, Toulouse)  
+   **Price**: 8,990  
+   **Length**: 3.0 years  
+   **Language**: Mix  
+
+These programs are related to technology and design, which may align with interests in software engineering. If you need more specific information or other types of programs, let me know!",2f76b671-a794-4e43-8aec-751e7b56c7e4
+Amna ,Give me more ,"The database does not contain additional software engineering programs in English for bachelor's level. The previously listed programs are the only ones available. If you have any other specific queries or need information on different programs, feel free to ask!",471d98be-1966-4548-8d8c-43a449a88ff2
+Amna ,Give me a list of software engineering programs in English for bachelors ,"Here are the software engineering programs in English for bachelor's level:
+
+1. **School**: EPITA  
+   **Program Name**: Bachelor in Computer Science  
+   **City**: Paris  
+   **Price**: 10,400  
+   **Length**: 3.0 years  
+   **Language**: English  
+
+2. **School**: AIVANCITY  
+   **Program Name**: Bachelor of Science IA appliquée  
+   **City**: Nice  
+   **Price**: 9,500  
+   **Length**: 3.0 years  
+   **Language**: French (Note: This program is not in English, but included for completeness)  
+
+This information is sourced directly from the provided database.",e2aa93e7-dccd-463e-9037-47ea66bf3ae2
+Nico,what about isep,"Here are the programs offered by ISEP:
+
+1. **Bachelor informatique et projets numériques**
+   - **Specialisation**: Transformation numérique des organisations (TNO)/Transformation numérique de l’industrie (TNI)
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Bordeaux, Issy-les-Moulineaux
+   - **Price**: 7956
+   - **Length**: 3.0
+   - **Language**: French
+
+2. **Bachelor informatique et santé**
+   - **Specialisation**: Not specified
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Issy-les-Moulineaux, Paris
+   - **Price**: 7956
+   - **Length**: 3.0
+   - **Language**: French
+
+3. **Programme Ingénieur**
+   - **Specialisation**: Data et IA/Informatique et Technologies numériques/Numérique, Économie et Finance/Data intelligence /Intelligence artificielle /Software Engineering /Ingénieur logiciel /Embedded systems/Concepteur de systèmes embarqué/Business intelligence/Création d'entreprise/Wirless telecomincaition and Iot systems/Architecte en objets et systèmes connectés /Digital security and networks /Cybersécurité/Architecte des systèmes d'information/Ergonomie et interfaces numériques
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Bordeaux, Issy-les-Moulineaux, Paris
+   - **Price**: 9280
+   - **Length**: 5.0
+   - **Language**: Both
+
+4. **Master in Engineering**
+   - **Specialisation**: Data intelligence /Software Engineering /Embedded systems/Wirless telecomincaition and Iot systems/Digital security and networks
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Issy-les-Moulineaux, Paris
+   - **Price**: 10200
+   - **Length**: 2.0
+   - **Language**: English
+
+5. **Mastère Spécialisé® Management et protection des données à caractère personnel**
+   - **Specialisation**: Not specified
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Issy-les-Moulineaux
+   - **Price**: 14500
+   - **Length**: 1.0
+   - **Language**: French
+
+6. **Preparatory cycle for the Engineering Program (CII)**
+   - **Specialisation**: Data et IA/Informatique et Technologies numériques/Numérique, Économie et Finance
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Bordeaux, Issy-les-Moulineaux, Paris
+   - **Price**: 9280
+   - **Length**: 2.0
+   - **Language**: Both
+
+These programs at ISEP focus on various aspects of software, engineering, and technology.",82573fbf-6ecf-4d2c-8b63-ea1ef7f08d9f
+Nico,list 5 different schools,"Here are five different schools along with their programs:
+
+1. **RUBIKA**
+   - **Program Name**: Formation Design Produit
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Valenciennes
+   - **Price**: 9450
+   - **Length**: 5.0
+   - **Language**: French
+
+2. **Sup de Com (FIGS Group)**
+   - **Program Name**: BTS Communication
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Lyon, Nantes
+   - **Price**: 6820
+   - **Length**: 2.0
+   - **Language**: French
+
+3. **CESI**
+   - **Program Name**: Bachelor systèmes, réseaux et cybersécurité
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Arras, Caen, Lille, Nancy, Rouen
+   - **Price**: 9000
+   - **Length**: 3.0
+   - **Language**: French
+
+4. **ELIJE (Galileo Group)**
+   - **Program Name**: Bachelor Droit et Business
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Aix-en-Provence, Lyon, Montpellier, Paris, Rennes, Toulouse, Tours
+   - **Price**: 7500
+   - **Length**: 3.0
+   - **Language**: French
+
+5. **PENNINGHEN (Galileo Group)**
+   - **Program Name**: Formation en Architecture Intérieure
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Paris
+   - **Price**: 10990
+   - **Length**: 5.0
+   - **Language**: French
+
+These schools offer a variety of programs across different fields.",ef454ac3-2b73-4b61-bf57-92f898bda5d7
+Nico,other schools,"Here are additional programs related to software from other schools:
+
+1. **CESI**
+   - **Program Name**: Bachelor systèmes, réseaux et cybersécurité
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Arras, Caen, Lille, Nancy, Rouen
+   - **Price**: 9000
+   - **Length**: 3.0
+   - **Language**: French
+
+2. **CESI**
+   - **Program Name**: Bachelor développement informatique
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Arras, Bordeaux, Brest, Caen, Dijon, Grenoble, La Rochelle, Lyon, Montpellier, Nancy, Nantes, Nice, Paris, Pau, Reims, Rouen, Strasbourg
+   - **Price**: 9000
+   - **Length**: 3.0
+   - **Language**: French
+
+3. **CESI**
+   - **Program Name**: Bachelor management des systèmes QSE
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Caen, Rouen
+   - **Price**: 9000
+   - **Length**: 3.0
+   - **Language**: French
+
+These programs are also focused on software and related fields.",c86fc2e8-8ed7-4893-bc4a-a6e7fe4b6f4d
+Nico,"I want a program in software, give me a list","Here are the programs related to software:
+
+1. **JUNIA ISEN**
+   - **Program Name**: Programme Ingénieur
+   - **Specialisation**: Développement logiciel et systèmes d'information
+   - **Intake**: Fall, Spring
+   - **Level of Entry**: BAC
+   - **City**: Bordeaux, Lille
+   - **Price**: 8500
+   - **Length**: 5.0
+   - **Language**: French
+
+2. **JUNIA ISEN**
+   - **Program Name**: Cycle Ingénieur
+   - **Specialisation**: Développement logiciel et systèmes d'information
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille
+   - **Price**: 9500
+   - **Length**: 2.0
+   - **Language**: French
+
+3. **JUNIA ISEN**
+   - **Program Name**: MSc Software engineering and information systems
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille
+   - **Price**: 9500
+   - **Length**: 2.0
+   - **Language**: English
+
+These programs focus on software development and engineering.",bf739dbd-ee2c-4de6-8ecc-4ad4afc24403
+Malak Elmouedden,"suggest masters of 1 year or 1.5 year in Finance, maximum budget: 20000 euros","Here are the master's programs in Finance that are 1 year or 1.5 years in length and have a maximum budget of 20,000 euros:
+
+1. **Burgundy School of Business**
+   - **Program Name**: MSc Corporate Finance & Investment Banking
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Dijon
+   - **Price**: 16,000 euros
+   - **Length**: 1.5 years
+   - **Language**: English
+
+2. **Burgundy School of Business**
+   - **Program Name**: MSc Luxury Management & Innovation
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Dijon
+   - **Price**: 16,000 euros
+   - **Length**: 1.5 years
+   - **Language**: English
+
+3. **Burgundy School of Business**
+   - **Program Name**: MSc Data Science & Organisational Behaviour
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Dijon
+   - **Price**: 16,000 euros
+   - **Length**: 1.5 years
+   - **Language**: English
+
+4. **Burgundy School of Business**
+   - **Program Name**: MSc Artificial Intelligence & Digital Strategy Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Lyon
+   - **Price**: 16,000 euros
+   - **Length**: 1.5 years
+   - **Language**: English
+
+5. **Burgundy School of Business**
+   - **Program Name**: MSc Arts & Cultural Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Dijon
+   - **Price**: 16,000 euros
+   - **Length**: 1.5 years
+   - **Language**: English
+
+6. **Burgundy School of Business**
+   - **Program Name**: MSc Wine Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Dijon
+   - **Price**: 18,000 euros
+   - **Length**: 1.5 years
+   - **Language**: English
+
+This information is sourced directly from the provided database.",1a154a9e-1c4a-4eda-be53-39df86d36544
+Salah,Whats price Msc firdt year marketing in KEDGE ?,"The price for the MSc in Marketing at KEDGE for the first year (BAC4) is 17,500.",c1f7a955-2368-44b6-ba23-e385a12c255e
+Salah,M1 KEDGE how much?,"The information regarding ""M1 KEDGE"" is not available in the provided database.",0126298f-ae49-47b1-95ec-d3c46a3f8c16
+Salah,Can you give me price of KEDGE M1 Marketing? ,"The information regarding ""KEDGE M1 Marketing"" is not available in the provided database.",50cbdcb3-dda3-4a54-b72c-d4c9dd8e9dbf
+yousra,mastère en génie civile,"The information regarding ""mastère en génie civile"" is not available in the provided database.",a4ea1d25-2f4e-4f62-81d6-5391671a3fa5
+Salah,Can you give me price of KEDGE M1 ? ,"The information regarding ""KEDGE M1"" is not available in the provided database.",0ca96391-728d-47c3-a4fa-0dc44e37275a
+Nico,"je veux des bachelors, fais moi un tableau","Voici un tableau des Bachelors qui allient informatique et business :
+
+| École                  | Programme                               | Spécialisation                                      | Intake | Niveau d'entrée | Ville                | Prix  | Durée | Langue |
+|-----------------------|----------------------------------------|----------------------------------------------------|--------|-----------------|----------------------|-------|-------|--------|
+| ICD (IGENSIA Group)   | Bachelor Business & Marketing           | Développement d’affaires/Marketing digital et e-business | Fall   | BAC             | Paris                | 8650  | 3.0   | Both   |
+| CESI                  | Bachelor développement informatique     |                                                    | Fall   | BAC             | Arras, Bordeaux, Brest, Caen, Dijon, Grenoble, La Rochelle, Lyon, Montpellier, Nancy, Nantes, Nice, Paris, Pau, Reims, Rouen, Strasbourg, Toulouse | 9000  | 3.0   | French |
+| CESI                  | Bachelor systèmes, réseaux et cybersécurité |                                                | Fall   | BAC             | Arras, Caen, Lille, Nancy, Rouen | 9000  | 3.0   | French |
+| IET (FIGS Group)     | Bachelor en Management et Sciences de l'Ingénieur |                                            | Fall   | BAC             | Lille                | 14000 | 4.0   | English |
+| IET (FIGS Group)     | Bachelor 3 Chargé de Projet Transition Écologique |                                        | Fall   | BAC2            | Lyon, Nantes         | 9870  | 1.0   | French |
+| IET (FIGS Group)     | Bachelor 3 Animateur Qualité Sécurité Environnement (QSE) |                             | Fall   | BAC2            | Nantes               | 9870  | 1.0   | French |
+
+Ces programmes de Bachelor intègrent des éléments d'informatique et de gestion, offrant une formation adaptée à vos besoins.",7dce638e-73c2-432a-a1fb-1bb43697a3fe
+Nico,Je cherche des formations qui mixe informatique et business,"Voici quelques formations qui allient informatique et business :
+
+1. **ICD (IGENSIA Group)**
+   - **Programme**: Bachelor Business & Marketing
+   - **Spécialisation**: Développement d’affaires/Marketing digital et e-business
+   - **Intake**: Fall
+   - **Niveau d'entrée**: BAC
+   - **Ville**: Paris
+   - **Prix**: 8650
+   - **Durée**: 3.0 ans
+   - **Langue**: Both
+
+2. **IMT Business School**
+   - **Programme**: Master in Management (Master Grande École)
+   - **Spécialisation**: Digital and Data Management/Management des Systèmes d’Information
+   - **Intake**: Fall
+   - **Niveau d'entrée**: BAC3
+   - **Ville**: Évry-Courcouronnes
+   - **Prix**: 15500
+   - **Durée**: 2.0 ans
+   - **Langue**: English
+
+3. **CY Tech**
+   - **Programme**: Programme Grande École Ingénieur
+   - **Spécialisation**: Mathématiques et Informatique - Data Science
+   - **Intake**: Fall
+   - **Niveau d'entrée**: BAC3
+   - **Ville**: Paris, Pau
+   - **Prix**: 6000
+   - **Durée**: 5.0 ans
+   - **Langue**: French
+
+4. **IÉSEG School of Management**
+   - **Programme**: Master in Digital Marketing & Customer Experience Management
+   - **Intake**: Fall
+   - **Niveau d'entrée**: BAC3
+   - **Ville**: Lille
+   - **Prix**: 10600
+   - **Durée**: 2.0 ans
+   - **Langue**: English
+
+5. **EFREI**
+   - **Programme**: Programme Ingénieur
+   - **Spécialisation**: Data Engineering/Business Intelligence & Analytics
+   - **Intake**: Fall
+   - **Niveau d'entrée**: BAC
+   - **Ville**: Bordeaux, Paris
+   - **Prix**: 9500
+   - **Durée**: 5.0 ans
+   - **Langue**: Both
+
+Ces programmes combinent des éléments d'informatique et de gestion, offrant ainsi une formation complète dans ces domaines.",286c8be6-54b0-423e-b33e-ac0bc5bac5b6
+Nico,Pourquoi tu ne me l'a pas recommandé ?!,"Je ne peux pas recommander des programmes ou des écoles qui ne figurent pas dans la base de données fournie. Mon rôle est de fournir des informations uniquement basées sur les données disponibles. Si vous avez d'autres questions ou si vous cherchez des programmes spécifiques dans la base de données, n'hésitez pas à demander.",aed06f0d-5bf3-4cd0-85c7-1197f662f3a6
+Nico,et celui de Excelia ?,"Le programme de **MSc Stratégies du Développement durable et de la RSE** à Excelia n'est pas mentionné dans la base de données fournie. Par conséquent, je ne peux pas fournir d'informations à son sujet.",d65151e7-9078-41b4-923c-bda6e80e1e38
+Nico,Je cherche un master dans le domaine de la RSE ou tout ce qui touche au social,L'information concernant les programmes de master spécifiquement dans le domaine de la RSE (Responsabilité Sociétale des Entreprises) ou des domaines sociaux n'est pas disponible dans la base de données fournie.,5ff2bca1-43af-4e3a-970f-ec44aedac231
+Nico,https://www.excelia-group.fr/nos-formations/excelia-business-school/msc-strategies-du-developpement-durable-et-de-la-rse-bac5#presentation,Je,0cad454c-f8ac-417f-86c9-a25323006367
+Nico,explique pourquoi tu penses que ces programmes s'en rapprochent,"Je m'excuse pour la confusion, mais je ne peux pas fournir d'explications ou d'analyses basées sur des opinions ou des interprétations. Les programmes mentionnés ne figurent pas dans la base de données fournie. 
+
+Si vous avez besoin d'autres informations ou d'autres types de programmes, n'hésitez pas à demander.",835403cb-2334-4436-9e6e-915109bc8b66
+Nico,Trouve des domaines qui s'en rapprochent,"Voici quelques programmes qui pourraient s'en rapprocher :
+
+1. **ESTP**
+   - **Mastère Spécialisé® Maîtrise d'ouvrage et gestion immobilière MOGI**
+     - **Intake**: Fall
+     - **Level of Entry**: BAC5
+     - **City**: Paris
+     - **Price**: 15750
+     - **Length**: 1.0
+     - **Language**: French
+
+2. **IGS-RH (IGENSIA Group)**
+   - **Mastère Manager des RH**
+     - **Intake**: Fall
+     - **Level of Entry**: BAC3
+     - **City**: Lyon, Paris
+     - **Price**: 11025
+     - **Length**: 2.0
+     - **Language**: French
+
+3. **ESMD (FIGS Group)**
+   - **Mastère juriste compliance**
+     - **Intake**: Fall
+     - **Level of Entry**: BAC3
+     - **City**: Paris
+     - **Price**: 8700
+     - **Length**: 2.0
+     - **Language**: French
+
+Ces programmes touchent à des aspects de gestion, de responsabilité sociale et de ressources humaines.",0a95b2d3-0d8a-4deb-9db7-02ebe89f2e96
+Nico,Je cherche un master dans le domaine de la RSE ou tout ce qui touche au social ,L'information concernant les programmes de master spécifiquement dans le domaine de la RSE (Responsabilité Sociétale des Entreprises) ou des domaines sociaux n'est pas disponible dans la base de données fournie.,ce52e5f6-18a4-45d6-ae06-69c2a2b692db
+Karim,with engineering like alber school ,"The information regarding a specific program at ""Alber School"" is not available in the provided database. However, here are some bachelor's programs that combine elements of business and engineering:
+
+1. **School Name**: JUNIA HEI  
+   **Program Name**: Programme Ingénieur  
+   **Specialisation**: Bâtiment et Travaux Publics/Informatique et Technologies de l'Information/Ingénierie médicale et santé/Bâtiment Aménagement Architecture/Conception Mécanique/Smart Cities/Chimie Innovante et Transition Écologique/Mécatronique - Robotique/Électricité et Transition Énergétique/Technologie Innovation et Management International Textiles/Management des Opérations Industrielles et Logistiques  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Lille, Bordeaux  
+   **Price**: 8500  
+   **Length**: 5.0  
+   **Language**: Both  
+
+2. **School Name**: ESTP  
+   **Program Name**: Bachelor Sciences et Ingénierie - Manager de la construction  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Cachan, Dijon, Orléans  
+   **Price**: 7800  
+   **Length**: 3.0  
+   **Language**: French  
+
+3. **School Name**: ESTP  
+   **Program Name**: Bachelor Architecture & construction  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Troyes  
+   **Price**: 7800  
+   **Length**: 3.0  
+   **Language**: French  
+
+These programs incorporate both engineering and management aspects, similar to what you might find at a school like Alber.",440c364b-f386-43f2-83c5-fb5ae718e8a6
+Karim,bachelor,"Here are some bachelor's programs that are related to business and engineering:
+
+1. **School Name**: ESG Nantes (Galileo Group)  
+   **Program Name**: Bachelor Marketing et Commerce  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Nantes  
+   **Price**: 7700  
+   **Length**: 3.0  
+   **Language**: French  
+
+2. **School Name**: ESG Nantes (Galileo Group)  
+   **Program Name**: Bachelor Commerce Marketing - Entrepreneuriat  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Nantes  
+   **Price**: 7700  
+   **Length**: 3.0  
+   **Language**: French  
+
+3. **School Name**: ESG Nantes (Galileo Group)  
+   **Program Name**: Bachelor Responsable Ressources Humaines  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Nantes  
+   **Price**: 7700  
+   **Length**: 3.0  
+   **Language**: French  
+
+4. **School Name**: 3A (FIGS Group)  
+   **Program Name**: Bachelor Coordination de projets de développement international et sociétal  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Lyon  
+   **Price**: 9000  
+   **Length**: 3.0  
+   **Language**: Both  
+
+These programs incorporate elements of business and management, which may align with interests in engineering.",2275242d-aeef-4ff2-bc17-f153181a054f
+Karim,similar to business and engineering,"Here are some programs that are similar to business and engineering:
+
+1. **School Name**: ESTP  
+   **Program Name**: Programme Ingénieur  
+   **Specialisation**: Low-Carbon Design and Construction/Construction 4.0/Real Estate Development and Usage/ Ecological Civil Engineering/Road Infrastructure and Sustainable Development/Infrastructure and Underground Works/Modeling of Complex Structures/Energy Production, Transport and Storage, Smart Grid/Renovation and Rehabilitation of Built Heritage/ GIS, Topography, and Digital Solutions/Sustainable and Decarbonized Urban Planning  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Cachan, Dijon, Orléans, Troyes  
+   **Price**: 7800  
+   **Length**: 5.0  
+   **Language**: French  
+
+2. **School Name**: IÉSEG School of Management  
+   **Program Name**: Master in Management (Master Grande Ecole)  
+   **Specialisation**: Financial Management & Control/Finance/Marketing/International Negotiation & Sales/General, Management and Strategic Councelling/Operation & Supply Chain Management/Innovation & Entrepreneurship  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Lille, Paris  
+   **Price**: 12720  
+   **Length**: 2.0  
+   **Language**: English  
+
+3. **School Name**: EM Normandie Business School  
+   **Program Name**: Master in Management (Master Grande École)  
+   **Specialisation**: International Business/International Marketing and Business Development/Digital Entrepreneurship/Audit and Corporate Finance/Financial Data Management/International Logistics and Port Management/Supply Chain Management  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Caen, Paris  
+   **Price**: 13000  
+   **Length**: 5.0  
+   **Language**: Both  
+
+4. **School Name**: Montpellier Business School  
+   **Program Name**: Master in Management (Master Grande Ecole)  
+   **Specialisation**: All Masters of Science are available/Entrepreneurship & Innovation/Strategy & Consulting/Management de Projets/Marketing/Finance/Purchasing & Supply Chain  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Montpellier, Paris  
+   **Price**: 15300  
+   **Length**: 2.0  
+   **Language**: Both  
+
+These programs combine elements of business and engineering or management.",742c3a14-b669-49cb-91e2-442c2ab4c415
+Karim,find me a program in business engineering,"The information regarding a program specifically titled ""Business Engineering"" is not available in the provided database.",6b860efc-b170-4943-8ef0-0f5503d9d20f
+Propose Supply Chain masters  taught in English and with a duration of 1 year,Propose Supply Chain masters  taught in English and with a duration of 1 year,"Here are the Supply Chain master's programs taught in English with a duration of 1 year:
+
+1. **Toulouse Business School**
+   - **Program Name**: MSc in Purchasing and Supply Chain Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Toulouse
+   - **Price**: 14,250
+   - **Length**: 1.0 year
+   - **Language**: English
+
+2. **KEDGE Business School**
+   - **Program Name**: MSc Global Supply Chain Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Bordeaux
+   - **Price**: 9,500
+   - **Length**: 1.0 year
+   - **Language**: English
+
+3. **RENNES Business School**
+   - **Program Name**: MSc in Logistics, Supply Chain & Purchasing
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Paris, Rennes
+   - **Price**: 14,000
+   - **Length**: 1.0 year
+   - **Language**: English
+
+This information is sourced directly from the provided database.",22e4bf4f-a1da-4b0b-88ae-d99c51f86de4
+CYRUS,DSCG ?,The information about the DSCG (Diplôme Supérieur de Comptabilité et de Gestion) program is not available in the provided database.,43d6826b-529c-4fd4-ac86-07e85ff5c23d
+nico,how much msc kedge,"KEDGE Business School offers several MSc programs with the following fees:
+
+1. MSc Data Analytics for Business: 17,400
+2. MSc Banking & Finance: 9,500
+3. MSc Business Transformation for Sustainability: 9,500
+4. MSc Corporate Finance: 9,500
+5. MSc Digital Marketing & Sales: 9,500
+6. MSc International Business: 9,500
+7. MSc International Sport & Event Management: 9,500
+8. MSc International Trade & Maritime Logistics: 9,500
+9. MSc Global Supply Chain Management: 9,500
+10. MSc International Purchasing & Innovation Management: 9,500
+11. MSc Arts & Creative Industries Management: 9,500
+12. MSc Creativity & Design Management: 9,500
+13. MSc Marketing: 9,500
+14. MSc International Marketing & Business Development: 9,500
+15. MSc Sustainable Finance: 9,500
+16. MSc Audit & Pilotage de la Performance: 9,500
+
+This information is sourced directly from the provided database.",c63c4275-b3c6-4ab0-843a-df4b4ae13842
+Leonard Jappini,find me a M2 in marketing and communication ,"The database does not contain any specific Master 2 (M2) programs explicitly labeled as ""Marketing and Communication."" However, there are several Master's programs related to marketing and communication. Here are some options:
+
+1. **EFAP École des nouveau métiers de la communication**
+   - **Program Name**: MBA Spécialisé Communication & Marketing des Vins et Spiritueux
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Bordeaux
+   - **Price**: 11680
+   - **Length**: 1.0 year
+   - **Language**: French
+
+2. **KEDGE Business School**
+   - **Program Name**: Master in Management (Master Grande École)
+   - **Specialisation**: All Masters of Science are available
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Bordeaux, Marseille
+   - **Price**: 16000
+   - **Length**: 2.0 years
+   - **Language**: English
+
+3. **Audencia**
+   - **Program Name**: Master in Management (Master Grande École)
+   - **Specialisation**: All Masters of Science are available
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Nantes
+   - **Price**: 17500
+   - **Length**: 2.0 years
+   - **Language**: English
+
+If you need more specific details or additional options, please let me know!",95a6c7ec-f374-42f6-9fcc-49e040f4096f
+Leonard Jappini,"Find me a Master 2 program in Marketing and Communication in France, available as a work-study (alternance) option, suitable for a first-time international student (primo-arrivant)",The information regarding a specific Master 2 program in Marketing and Communication available as a work-study (alternance) option for a first-time international student is not available in the provided database.,66cf59fe-a26b-4c49-8a14-817ff2a78d7a
+CYRUS,"BachelorLangues
+Français
+Anglais
+Compétences
+Techniques
+➢ Usinag e : Tournag e, Fraisag e,
+Perçage, Commande numérique
+➢ Moulag e : M oulag e en sable e t en
+acier
+➢ Mise en f orme : E mboutissag e,
+extrusion
+➢ Métrologie : M aîtrise des outils de
+mesur e
+➢ Dessin t echnique : R éalisa tion des
+plans
+➢ Connaissanc e des ma tériaux
+➢ Resistanc e des ma tériaux
+Manag ériales
+➢ Cultur e d’entreprenaria t
+➢ Gestion de pr ojet
+➢ Gestion des risques
+Informatique
+Openo Oﬁce
+AUTOCAD , Solidw orks, Ca tia,
+logitrace
+Pack O ﬃce
+Word, Ex cel, Power Point
+Atouts
+Capacit é d'adap tation
+Autonome
+Responsable
+Esprit d’ équipe
+Dynamique
+Centr es d'intér êt
+Sport
+Voyage
+Badrzidane65@ho tmail.c om 
+El Jadida, M aroc 
+Permis B 
++212629402653 Badr  Zidane
+Technicien Spécialisé en Méthodes de
+Fabrication Mécanique
+Diplômes et Formations
+Expériences pr ofessionnellesDiplôme de Technicien S pécialisé en M éthodes de F abrica tion M écanique
+De 2020  à 2022 l’Institut S pécialisé de Technolo gie Appliquée Al Massir a El Jadida, M aroc
+Baccalaur éat Professionnelle op tion F abrica tion M écanique
+De 2019  à 2020 Lycée Ibn Khaldoun  El Jadida, M aroc
+Technicien de labor atoire
+Depuis novembr e 2024 Detroit industrie  El Jadida, M aroc
+Contrôle qualit é de ﬁlm multic ouche
+Contrôle de par amètre et tempér ature de machine CAST  et mini bulle
+Contrôle de f ormule a vant démarr age
+Essais sur  :
+Matière premièr e
+Mini bulle (S ac poubelle e t ﬁcelle) :
+Contrôle d' épaisseur , longueur  et largeur
+Essai d' allong emen t (traction, élonga tion, f orce)
+Essai de friction
+Essai d'impact e t corona
+CPE/ CPP  :
+Contrôle d' épaisseur , longueur  et largeur
+Essai d' allong emen t (traction, élonga tion, f orce)
+Essai de friction
+Essai de c orona
+Technicien de labor atoire
+De janvier 2024  à octobre 2024 SMM SOC ODAM D AVUM  JORF  LASF AR
+Essais sur  :
+Béton
+Hourdis Agglos
+MP pour  béton
+Rectiﬁca tion, C onfection, I dentiﬁca tion e t conserv ation des épr ouvettes de bé ton
+Identiﬁca tion, pr élèvemen t et transfert des échan tillons au labor atoire
+Contrôle visuel de la ma tière premièr e
+Contrôle qualit é atelier précontrainte
+Manipula tion e t utilisa tion des DSM
+Stagiair e
+Février  2021 Société Marocaine d' engr enag es et Mécanique (SMEM)  El Jorf Lasf ar, Maroc
+Sujet du stag e :
+➢ Réalisa tion des tr avaux d’usinag e :
+• Tournag e, dressag e
+• Fraisag e, surf açag e.
+• Commande numérique
+Stagiair e
+Décembr e
+2021Société Marocaine d' engr enag es et de M écanique (SMEM)  El Jorf Lasf ar,
+Maroc
+Sujet du stag e :
+➢ Soudag e
+➢ Réalisa tion des tr avaux d’usinag e :
+• Tournag e, dressag e
+• Fraisag e, surf açag e.
+• Commande numérique.","The information regarding the program ""Bachelor"" is not available in the provided database. If you have any other specific programs or queries, please let me know!",c9e92426-1c55-4bf3-89bb-51d687daf480
+CYRUS,"bachelor 3 en mécaniqueLangues
+Français
+Anglais
+Compétences
+Techniques
+➢ Usinag e : Tournag e, Fraisag e,
+Perçage, Commande numérique
+➢ Moulag e : M oulag e en sable e t en
+acier
+➢ Mise en f orme : E mboutissag e,
+extrusion
+➢ Métrologie : M aîtrise des outils de
+mesur e
+➢ Dessin t echnique : R éalisa tion des
+plans
+➢ Connaissanc e des ma tériaux
+➢ Resistanc e des ma tériaux
+Manag ériales
+➢ Cultur e d’entreprenaria t
+➢ Gestion de pr ojet
+➢ Gestion des risques
+Informatique
+Openo Oﬁce
+AUTOCAD , Solidw orks, Ca tia,
+logitrace
+Pack O ﬃce
+Word, Ex cel, Power Point
+Atouts
+Capacit é d'adap tation
+Autonome
+Responsable
+Esprit d’ équipe
+Dynamique
+Centr es d'intér êt
+Sport
+Voyage
+Badrzidane65@ho tmail.c om 
+El Jadida, M aroc 
+Permis B 
++212629402653 Badr  Zidane
+Technicien Spécialisé en Méthodes de
+Fabrication Mécanique
+Diplômes et Formations
+Expériences pr ofessionnellesDiplôme de Technicien S pécialisé en M éthodes de F abrica tion M écanique
+De 2020  à 2022 l’Institut S pécialisé de Technolo gie Appliquée Al Massir a El Jadida, M aroc
+Baccalaur éat Professionnelle op tion F abrica tion M écanique
+De 2019  à 2020 Lycée Ibn Khaldoun  El Jadida, M aroc
+Technicien de labor atoire
+Depuis novembr e 2024 Detroit industrie  El Jadida, M aroc
+Contrôle qualit é de ﬁlm multic ouche
+Contrôle de par amètre et tempér ature de machine CAST  et mini bulle
+Contrôle de f ormule a vant démarr age
+Essais sur  :
+Matière premièr e
+Mini bulle (S ac poubelle e t ﬁcelle) :
+Contrôle d' épaisseur , longueur  et largeur
+Essai d' allong emen t (traction, élonga tion, f orce)
+Essai de friction
+Essai d'impact e t corona
+CPE/ CPP  :
+Contrôle d' épaisseur , longueur  et largeur
+Essai d' allong emen t (traction, élonga tion, f orce)
+Essai de friction
+Essai de c orona
+Technicien de labor atoire
+De janvier 2024  à octobre 2024 SMM SOC ODAM D AVUM  JORF  LASF AR
+Essais sur  :
+Béton
+Hourdis Agglos
+MP pour  béton
+Rectiﬁca tion, C onfection, I dentiﬁca tion e t conserv ation des épr ouvettes de bé ton
+Identiﬁca tion, pr élèvemen t et transfert des échan tillons au labor atoire
+Contrôle visuel de la ma tière premièr e
+Contrôle qualit é atelier précontrainte
+Manipula tion e t utilisa tion des DSM
+Stagiair e
+Février  2021 Société Marocaine d' engr enag es et Mécanique (SMEM)  El Jorf Lasf ar, Maroc
+Sujet du stag e :
+➢ Réalisa tion des tr avaux d’usinag e :
+• Tournag e, dressag e
+• Fraisag e, surf açag e.
+• Commande numérique
+Stagiair e
+Décembr e
+2021Société Marocaine d' engr enag es et de M écanique (SMEM)  El Jorf Lasf ar,
+Maroc
+Sujet du stag e :
+➢ Soudag e
+➢ Réalisa tion des tr avaux d’usinag e :
+• Tournag e, dressag e
+• Fraisag e, surf açag e.
+• Commande numérique.","The information regarding the program ""Bachelor 3 en Mécanique"" is not available in the provided database. If you have any other specific programs or queries, please let me know!",7246a319-e502-4a28-9f19-88265132e822
+CYRUS,MASTER SPÉCIALISÉ,"Here are the available ""Master Spécialisé"" programs from the database:
+
+1. **Mastère spécialisé Acteur Pour la Transition Écologique**
+   - **School**: Audencia
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Nantes
+   - **Price**: 16900
+   - **Length**: 1.0
+   - **Language**: French
+
+2. **Mastère spécialisé Management Global des Achats et de la Supply Chain**
+   - **School**: Audencia
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Nantes
+   - **Price**: 16900
+   - **Length**: 1.0
+   - **Language**: French
+
+3. **Mastère spécialisé Management responsable des Organisations Sportives**
+   - **School**: Audencia
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Paris
+   - **Price**: 16900
+   - **Length**: 1.0
+   - **Language**: French
+
+4. **Mastère spécialisé Marketing, Design et Création**
+   - **School**: Audencia
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Nantes
+   - **Price**: 16900
+   - **Length**: 1.0
+   - **Language**: French
+
+5. **Mastère spécialisé Stratégies Digitales et Data Marketing**
+   - **School**: Audencia
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Paris
+   - **Price**: 16900
+   - **Length**: 1.0
+   - **Language**: French
+
+6. **Mastère spécialisé Stratégies Financières et Investissements Responsables**
+   - **School**: Audencia
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Paris
+   - **Price**: 17900
+   - **Length**: 1.0
+   - **Language**: French
+
+7. **Mastère Spécialisé Expert en Banque et Ingénierie Financière**
+   - **School**: Toulouse Business School
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Paris, Toulouse
+   - **Price**: 14400
+   - **Length**: 1.0
+   - **Language**: French
+
+8. **Mastère Spécialisé Expert en Audit Interne et Contrôle de Gestion**
+   - **School**: Toulouse Business School
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Toulouse
+   - **Price**: 15500
+   - **Length**: 1.0
+   - **Language**: French
+
+9. **Mastère Spécialisé Manager de l'Innovation Technologique**
+   - **School**: Toulouse Business School
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Toulouse
+   - **Price**: 14400
+   - **Length**: 1.0
+   - **Language**: French
+
+10. **Mastère Spécialisé Manager des Ressources Humaines**
+    - **School**: Toulouse Business School
+    - **Intake**: Fall
+    - **Level of Entry**: BAC5
+    - **City**: Toulouse
+    - **Price**: 14400
+    - **Length**: 1.0
+    - **Language**: French
+
+11. **Mastère Spécialisé Manager Achats et Supply Chain**
+    - **School**: Toulouse Business School
+    - **Intake**: Fall
+    - **Level of Entry**: BAC5
+    - **City**: Toulouse
+    - **Price**: 14400
+    - **Length**: 1.0
+    - **Language**: French
+
+12. **Mastère Spécialisé Manager de Structures Sanitaires et Sociales**
+    - **School**: Toulouse Business School
+    - **Intake**: Fall
+    - **Level of Entry**: BAC5
+    - **City**: Toulouse
+    - **Price**: 15500
+    - **Length**: 1.0
+    - **Language**: French
+
+13. **Mastère Spécialisé Manager Marketing et Communication**
+    - **School**: Toulouse Business School
+    - **Intake**: Fall
+    - **Level of Entry**: BAC5
+    - **City**: Paris
+    - **Price**: 14400
+    - **Length**: 1.0
+    - **Language**: French
+
+14. **Mastère Spécialisé Manager Marketing et Commercial dans les Industries de Santé**
+    - **School**: Toulouse Business School
+    - **Intake**: Fall
+    - **Level of Entry**: BAC5
+    - **City**: Paris, Toulouse
+    - **Price**: 15500
+    - **Length**: 1.0
+    - **Language**: French
+
+If you need more specific information or additional programs, please let me know!",698d853a-45e0-46d8-bc59-80e8b0fb0dc3
+CYRUS,MS EN INGÉNIERIE FINANCIÈRE,"The information regarding the program ""MS en Ingénierie Financière"" is not available in the provided database.",9112d5b3-bdf7-4667-bcb7-b8703c869048
+can you show me the best program for MSc in Finance I want to work as trader ,for one year masters?,"Here are the one-year MSc in Finance programs available from schools with a price below 15,000:
+
+1. **KEDGE Business School**
+   - **Program Name**: MSc Banking & Finance
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Bordeaux
+   - **Price**: 9500
+   - **Length**: 1.0 year
+   - **Language**: English
+
+2. **NEOMA Business School**
+   - **Program Name**: MSc in Financial Markets
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Rouen
+   - **Price**: 14000
+   - **Length**: 1.0 year
+   - **Language**: English
+
+This information is sourced directly from the provided database.",c5282a7f-97e7-4feb-b3bd-6c0ff371df39
+can you show me the best program for MSc in Finance I want to work as trader ,what else other schools below 15k Msc in Finance ?,"Here are the MSc in Finance programs available from other schools with a price below 15,000:
+
+1. **IÉSEG School of Management**
+   - **Program Name**: Master in International Business (MIB)
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille, Paris
+   - **Price**: 10600
+   - **Length**: 2.0 years
+   - **Language**: English
+
+2. **ICN Business School**
+   - **Program Name**: MSc Corporate Finance
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Paris
+   - **Price**: 12000
+   - **Length**: 2.0 years
+   - **Language**: Both
+
+3. **KEDGE Business School**
+   - **Program Name**: MSc Banking & Finance
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Bordeaux
+   - **Price**: 9500
+   - **Length**: 2.0 years
+   - **Language**: English
+
+This information is sourced directly from the provided database.",ee3abc8d-4c9e-4aed-aa34-e86d659f91cf
+can you show me the best program for MSc in Finance I want to work as trader ,MSC Skemaa in Finance or NEOMA or EM lyon in finance if I want to work in trading ?,"Here are the MSc programs in Finance from SKEMA Business School, NEOMA Business School, and emlyon business school that would be relevant for a career in trading:
+
+1. **SKEMA Business School**
+   - **Program Name**: MSc Financial Markets & Investments
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Paris, Sophia-Antipolis
+   - **Price**: 23000
+   - **Length**: 2.0 years
+   - **Language**: English
+
+2. **NEOMA Business School**
+   - **Program Name**: MSc International Finance
+   - **Specialisation**: Corporate Finance & Investment Banking/Financial Markets & Risk Management/Real Estate & Wealth Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Reims, Rouen
+   - **Price**: 16250
+   - **Length**: 2.0 years
+   - **Language**: English
+
+3. **emlyon business school**
+   - **Program Name**: MSc in Finance
+   - **Specialisation**: Corporate Finance & Innovation/Market & Quantitative Finance
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lyon
+   - **Price**: 27900
+   - **Length**: 1.5 years
+   - **Language**: English
+
+This information is sourced directly from the provided database.",5d3a4e3d-5737-40da-b1ca-5ad9ea856e77
+can you show me the best program for MSc in Finance I want to work as trader ,Which MSc in Alternance for Primo arrivant ?,"Here are the MSc programs available in alternance for Primo arrivant:
+
+1. **School Name**: SKEMA Business School
+   - **Program Name**: Master in Management (Master Grande Ecole)
+   - **Specialisation**: Marketing Digital & Data Analytics/Contrôle de Gestion & Audit /Marketing Digital & Data Analytics /Contrôle de Gestion & Audi/Strategic Marketing & Business Development​​ /Audit, Management Accounting &​​ Finance /​​​​Project Management & Supply Chain/All Masters of Science are available/All Mastères spécialisés are available /
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille, Paris
+   - **Price**: 0 (alternance)
+   - **Length**: 2.0 years
+   - **Language**: English
+
+2. **School Name**: JUNIA HEI
+   - **Program Name**: Cycle Ingénieur
+   - **Specialisation**: Bâtiment et Travaux Publics/Informatique et Technologies de l'Information/Ingénierie médicale et santé/Bâtiment Aménagement Architecture/Conception Mécanique/Smart Cities/Chimie Innovante et Transition Écologique/Mécatronique - Robotique/Électricité et Transition Énergétique/Technologie Innovation et Management International Textiles/Management des Opérations Industrielles et Logistiques/ Bâtiment et Travaux Publics/Énergies systèmes électriques/Aéronautique/Mécatronique robotique/Entrepreneuriat Intrapreneuriat Extrapreneuriat/Management finance/Management Trade & Consumer/
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille
+   - **Price**: 0 (alternance)
+   - **Length**: 2.0 years
+   - **Language**: French
+
+This information is sourced directly from the provided database.",d17300db-204d-44ed-97e2-3bde605126aa
+can you show me the best program for MSc in Finance I want to work as trader ,What's the best MSc in english in Alternance for primo arrivant !,"The best MSc program in English available in alternance for Primo arrivant is:
+
+- **School Name**: SKEMA Business School
+  - **Program Name**: Master in Management (Master Grande Ecole)
+  - **Specialisation**: Marketing Digital & Data Analytics/Contrôle de Gestion & Audit /Marketing Digital & Data Analytics /Contrôle de Gestion & Audi/Strategic Marketing & Business Development​​ /Audit, Management Accounting &​​ Finance /​​​​Project Management & Supply Chain/All Masters of Science are available/All Mastères spécialisés are available /
+  - **Intake**: Fall
+  - **Level of Entry**: BAC3
+  - **City**: Lille, Paris
+  - **Price**: 0 (alternance)
+  - **Length**: 2.0 years
+  - **Language**: English
+
+This information is sourced directly from the provided database.",16a30625-5aaf-4aee-9007-2a63bde48147
+can you show me the best program for MSc in Finance I want to work as trader ,What's the best masters in supplychain in Alternance for Primo arrivant and in English ,"The best master's program in Supply Chain available in alternance for Primo arrivant and in English is:
+
+- **School Name**: Audencia
+  - **Program Name**: Master in Management--Engineering (Master Grande Ecole)
+  - **Specialisation**: All Masters of Science are available
+  - **Intake**: Fall
+  - **Level of Entry**: BAC4
+  - **City**: Nantes, Paris
+  - **Price**: 0 (alternance)
+  - **Length**: 2.0 years
+  - **Language**: French
+
+This information is sourced directly from the provided database.",662bc65b-b4c9-4e0c-95a6-5f33dedfaf0e
+can you show me the best program for MSc in Finance I want to work as trader ,can you show me the best program for MSc in Finance I want to work as trader ,"The best program for MSc in Finance that aligns with your interest in working as a trader is:
+
+- **School Name**: ISC Paris Grande École de Commerce
+  - **Program Name**: MSc Finance & Risk Management
+  - **Intake**: Fall, Spring
+  - **Level of Entry**: BAC3
+  - **City**: Paris
+  - **Price**: 11,500
+  - **Length**: 2.0 years
+  - **Language**: Both
+
+This information is sourced directly from the provided database.",45cf2a6c-fc6e-47c0-bf7e-590f9e2c17a9
+cyrus,"envoie le lien du programme stpLangues
+Français
+Anglais
+Compétences
+Techniques
+➢ Usinag e : Tournag e, Fraisag e,
+Perçage, Commande numérique
+➢ Moulag e : M oulag e en sable e t en
+acier
+➢ Mise en f orme : E mboutissag e,
+extrusion
+➢ Métrologie : M aîtrise des outils de
+mesur e
+➢ Dessin t echnique : R éalisa tion des
+plans
+➢ Connaissanc e des ma tériaux
+➢ Resistanc e des ma tériaux
+Manag ériales
+➢ Cultur e d’entreprenaria t
+➢ Gestion de pr ojet
+➢ Gestion des risques
+Informatique
+Openo Oﬁce
+AUTOCAD , Solidw orks, Ca tia,
+logitrace
+Pack O ﬃce
+Word, Ex cel, Power Point
+Atouts
+Capacit é d'adap tation
+Autonome
+Responsable
+Esprit d’ équipe
+Dynamique
+Centr es d'intér êt
+Sport
+Voyage
+Badrzidane65@ho tmail.c om 
+El Jadida, M aroc 
+Permis B 
++212629402653 Badr  Zidane
+Technicien Spécialisé en Méthodes de
+Fabrication Mécanique
+Diplômes et Formations
+Expériences pr ofessionnellesDiplôme de Technicien S pécialisé en M éthodes de F abrica tion M écanique
+De 2020  à 2022 l’Institut S pécialisé de Technolo gie Appliquée Al Massir a El Jadida, M aroc
+Baccalaur éat Professionnelle op tion F abrica tion M écanique
+De 2019  à 2020 Lycée Ibn Khaldoun  El Jadida, M aroc
+Technicien de labor atoire
+Depuis novembr e 2024 Detroit industrie  El Jadida, M aroc
+Contrôle qualit é de ﬁlm multic ouche
+Contrôle de par amètre et tempér ature de machine CAST  et mini bulle
+Contrôle de f ormule a vant démarr age
+Essais sur  :
+Matière premièr e
+Mini bulle (S ac poubelle e t ﬁcelle) :
+Contrôle d' épaisseur , longueur  et largeur
+Essai d' allong emen t (traction, élonga tion, f orce)
+Essai de friction
+Essai d'impact e t corona
+CPE/ CPP  :
+Contrôle d' épaisseur , longueur  et largeur
+Essai d' allong emen t (traction, élonga tion, f orce)
+Essai de friction
+Essai de c orona
+Technicien de labor atoire
+De janvier 2024  à octobre 2024 SMM SOC ODAM D AVUM  JORF  LASF AR
+Essais sur  :
+Béton
+Hourdis Agglos
+MP pour  béton
+Rectiﬁca tion, C onfection, I dentiﬁca tion e t conserv ation des épr ouvettes de bé ton
+Identiﬁca tion, pr élèvemen t et transfert des échan tillons au labor atoire
+Contrôle visuel de la ma tière premièr e
+Contrôle qualit é atelier précontrainte
+Manipula tion e t utilisa tion des DSM
+Stagiair e
+Février  2021 Société Marocaine d' engr enag es et Mécanique (SMEM)  El Jorf Lasf ar, Maroc
+Sujet du stag e :
+➢ Réalisa tion des tr avaux d’usinag e :
+• Tournag e, dressag e
+• Fraisag e, surf açag e.
+• Commande numérique
+Stagiair e
+Décembr e
+2021Société Marocaine d' engr enag es et de M écanique (SMEM)  El Jorf Lasf ar,
+Maroc
+Sujet du stag e :
+➢ Soudag e
+➢ Réalisa tion des tr avaux d’usinag e :
+• Tournag e, dressag e
+• Fraisag e, surf açag e.
+• Commande numérique.","Je suis désolé, mais je ne peux pas fournir de liens vers des programmes ou des sites externes. Cependant, je peux vous donner des informations sur le programme de Bachelor en Mécanique que j'ai mentionné précédemment. Si vous avez besoin d'autres détails ou d'informations supplémentaires, n'hésitez pas à demander.",9b30ed4b-f700-4784-b99a-bac795dad74b
+cyrus,"trouve une l3 en mécanique, budget de 8000Langues
+Français
+Anglais
+Compétences
+Techniques
+➢ Usinag e : Tournag e, Fraisag e,
+Perçage, Commande numérique
+➢ Moulag e : M oulag e en sable e t en
+acier
+➢ Mise en f orme : E mboutissag e,
+extrusion
+➢ Métrologie : M aîtrise des outils de
+mesur e
+➢ Dessin t echnique : R éalisa tion des
+plans
+➢ Connaissanc e des ma tériaux
+➢ Resistanc e des ma tériaux
+Manag ériales
+➢ Cultur e d’entreprenaria t
+➢ Gestion de pr ojet
+➢ Gestion des risques
+Informatique
+Openo Oﬁce
+AUTOCAD , Solidw orks, Ca tia,
+logitrace
+Pack O ﬃce
+Word, Ex cel, Power Point
+Atouts
+Capacit é d'adap tation
+Autonome
+Responsable
+Esprit d’ équipe
+Dynamique
+Centr es d'intér êt
+Sport
+Voyage
+Badrzidane65@ho tmail.c om 
+El Jadida, M aroc 
+Permis B 
++212629402653 Badr  Zidane
+Technicien Spécialisé en Méthodes de
+Fabrication Mécanique
+Diplômes et Formations
+Expériences pr ofessionnellesDiplôme de Technicien S pécialisé en M éthodes de F abrica tion M écanique
+De 2020  à 2022 l’Institut S pécialisé de Technolo gie Appliquée Al Massir a El Jadida, M aroc
+Baccalaur éat Professionnelle op tion F abrica tion M écanique
+De 2019  à 2020 Lycée Ibn Khaldoun  El Jadida, M aroc
+Technicien de labor atoire
+Depuis novembr e 2024 Detroit industrie  El Jadida, M aroc
+Contrôle qualit é de ﬁlm multic ouche
+Contrôle de par amètre et tempér ature de machine CAST  et mini bulle
+Contrôle de f ormule a vant démarr age
+Essais sur  :
+Matière premièr e
+Mini bulle (S ac poubelle e t ﬁcelle) :
+Contrôle d' épaisseur , longueur  et largeur
+Essai d' allong emen t (traction, élonga tion, f orce)
+Essai de friction
+Essai d'impact e t corona
+CPE/ CPP  :
+Contrôle d' épaisseur , longueur  et largeur
+Essai d' allong emen t (traction, élonga tion, f orce)
+Essai de friction
+Essai de c orona
+Technicien de labor atoire
+De janvier 2024  à octobre 2024 SMM SOC ODAM D AVUM  JORF  LASF AR
+Essais sur  :
+Béton
+Hourdis Agglos
+MP pour  béton
+Rectiﬁca tion, C onfection, I dentiﬁca tion e t conserv ation des épr ouvettes de bé ton
+Identiﬁca tion, pr élèvemen t et transfert des échan tillons au labor atoire
+Contrôle visuel de la ma tière premièr e
+Contrôle qualit é atelier précontrainte
+Manipula tion e t utilisa tion des DSM
+Stagiair e
+Février  2021 Société Marocaine d' engr enag es et Mécanique (SMEM)  El Jorf Lasf ar, Maroc
+Sujet du stag e :
+➢ Réalisa tion des tr avaux d’usinag e :
+• Tournag e, dressag e
+• Fraisag e, surf açag e.
+• Commande numérique
+Stagiair e
+Décembr e
+2021Société Marocaine d' engr enag es et de M écanique (SMEM)  El Jorf Lasf ar,
+Maroc
+Sujet du stag e :
+➢ Soudag e
+➢ Réalisa tion des tr avaux d’usinag e :
+• Tournag e, dressag e
+• Fraisag e, surf açag e.
+• Commande numérique.","Pour une Licence 3 en Mécanique avec un budget maximum de 8 000 €, voici les options disponibles :
+
+1. **ESTP**
+   - **Programme**: Bachelor en Mécanique
+   - **Intake**: Fall
+   - **Niveau d'entrée**: BAC
+   - **Ville**: Cachan, Dijon, Orléans, Troyes
+   - **Prix**: 7 100 €
+   - **Durée**: 3.0 ans
+   - **Langue**: French
+
+Cette option correspond à votre demande. Si vous avez besoin de plus d'informations ou d'autres options, n'hésitez pas à demander.",eddc987a-1614-4b8b-9950-1a6c8e3a151c
+cyrus,"I want M2 finance audit, budget de 10000 max, I transfer her cv, in frenchLangues
+Arabe
+Langue ma ternelle
+Français
+Bonne maitrise
+Anglais
+Bonne maitrise
+Compétences
+personnelles
+Organisée
+Rigour euse
+Passionnée
+Esprit d' équipe
+Esprit critique
+Centres d'intérêt
+Voyage
+Béné volat
+MusiqueLaur éate de l 'Ecole N ationale de Commer ce et de Gestion à K enitr a en gestion ﬁnancièr e et comp table,
+avec une base solide en théorie ﬁnancièr e et une pr édilection pour  la comp tabilit é, l'audit, la ﬁnanc e et
+le contrôle de gestion. M éthodique e t persé vérante, je suis à la r echer che d’une éc ole en F rance pour
+poursuivr e mes é tudes dans le domaine de la ﬁnanc e et du c ontrôle de gestion a ﬁn de c ontribuer
+eﬃcac emen t à la perf ormanc e ﬁnancièr e et stratégique des en treprises.
+Diplômes et Formations
+Compétences professionelles
+Anal yse ﬁnancièr e
+Comp tabilit é Génér ale
+Comp tabilit é anal ytique
+Pack o ﬃce (Ex cel, P ower poin t, Word)
+Logiciels : Sage 100 c omp tabilit é, ODOO
+Expériences professionnelles
+Expériences associatives
+BOUTHAYNA BOUTHAYNA  El OMARI El OMARI
+bouta yna.elomari1@gma
+il.com
+91, L otissemen t Zineb
+Douk arat, Fès
+Née le 24/ 11/2001
+Permis B
++212 6 63 14 34 7 5
+Diplôme de l 'Ecole N ationale de Commer ce et de Gestion ; Op tion : gestion ﬁnancièr e et
+comp table
+De 2019  à juin 2024 Ecole N ationale de Commer ce et de Gestion  Kenitr a
+Bac calaur éat en scienc e éc onomique (men tion tr ès bien)
+De 2018  à 2019 Etablissemen t Sec ondair e Lazr ak (E SL) Fès, M aroc
+Responsable ﬁnancier
+De janvier 2024  à décembr e 2024 BENCENTER  Fès
+Superviser  la comp tabilit é génér ale e t anal ytique.
+Élabor er et suivr e les budge ts annuels.
+Veiller  au r espect des obliga tions légales, ﬁscales e t réglemen taires.
+Assurer la bonne t enue des c omp tes e t le r espect des normes c omp tables e t ﬁscales.
+Assurer le suivi des f actur es, des paiemen ts et des r elanc es clien ts.
+Stage de ﬁn d' études en c ontrôle de gestion
+De février  2024  à mai 2024 Yazaki kénitr a
+Élabor er et suivr e les budge ts et les pr évisions.
+Participer  à l'élabor ation des str atégies ﬁnancièr es de l 'entreprise.
+Contrôler les écarts en tre les pr évisions e t les r éalisa tions.
+Mise en plac e de tableaux de bor d.
+Stage d' appr ofondissemen t
+De juin 2023  à juille t 2023 Banque P opulair e (centre d'affaires M oula y Driss)  Fès
+Evalua tion des demande de cr édits.
+Anal yse des demandes de cr édits de f onctionnemen ts et d'in vestissemen ts.
+Anal yse des in forma tions ﬁnancièr es.( é tats ﬁnanciers, ﬂux de tr ésor erie, r atios ﬁnanciers..)
+Anal yse de la sol vabilit é et la viabilit é des en treprises.
+Anal yse des risques de cr édits.
+Stage d'initia tion
+De juin 2022  à juille t 2022 Fiduciair e R.S.F  (conseils juridique e t ﬁscaux)  Fès
+Anal yse bilan taire et étude de r entabilit é.
+Etablissemen t des c omp tes annuels.
+Tenue de la c omp tabilit é journalièr e.
+Etablissemen t de l ’ensemble des déclar ations ﬁscales, TVA…
+Stage volon taire
+De juille t 2021  à août 2021 SAVOB Fes-Ville-N ouvelle, M orocco
+Saisie des écritur es comp tables.
+Gestion des f actur es fournisseurs e t clien ts.
+Archivage des documen ts comp tables.
+Club Lions E spoir","Pour le programme de Master en Audit et Contrôle de Gestion, voici les options disponibles dans le budget de 10 000 € :
+
+1. **IÉSEG School of Management**
+   - **Programme**: Master in Management (Master Grande Ecole)
+   - **Spécialisation**: Audit, Contrôle de Gestion & Direction Financière
+   - **Intake**: Fall
+   - **Niveau d'entrée**: BAC3
+   - **Ville**: Lille, Paris
+   - **Prix**: 0 € (Programme alternance)
+   - **Durée**: 2.0 ans
+   - **Langue**: French
+
+2. **ESG FINANCE (GALILEO Group)**
+   - **Programme**: Mastère Audit et Contrôle de Gestion
+   - **Intake**: Fall, Spring
+   - **Niveau d'entrée**: BAC3
+   - **Ville**: Paris
+   - **Prix**: 10 100 €
+   - **Durée**: 2.0 ans
+   - **Langue**: French
+
+Ces programmes correspondent à votre demande. Si vous avez besoin de plus d'informations ou d'autres options, n'hésitez pas à demander.",7f762f17-b526-4ffd-a7cb-aebe7faaba0c
+Nico,can you ddetail me the programs,"The programs offered by École 89 (GA ÉDUCATION) are as follows:
+
+1. **Bachelor en Programmation Informatique**
+   - **Specialisation**: Fullstack developer/Big Data/Mobile gaming
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Ferrières-en-Brie
+   - **Price**: 8900
+   - **Length**: 3.0 years
+   - **Language**: French
+
+2. **Bachelor IA Marketing Digital et Communication**
+   - **Specialisation**: Not specified
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Ferrières-en-Brie
+   - **Price**: 8900
+   - **Length**: 3.0 years
+   - **Language**: French
+
+3. **Bachelor Cybersécurité**
+   - **Specialisation**: Not specified
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Ferrières-en-Brie
+   - **Price**: 8900
+   - **Length**: 3.0 years
+   - **Language**: French
+
+4. **MSc Expert IT – IA - Big Data**
+   - **Specialisation**: Not specified
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Ferrières-en-Brie
+   - **Price**: 9900
+   - **Length**: 2.0 years
+   - **Language**: French
+
+5. **MSc IA Marketing & Communication**
+   - **Specialisation**: Not specified
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Ferrières-en-Brie
+   - **Price**: 9900
+   - **Length**: 2.0 years
+   - **Language**: French
+
+6. **MSc IA Marketing & Business**
+   - **Specialisation**: Not specified
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Ferrières-en-Brie
+   - **Price**: 9900
+   - **Length**: 2.0 years
+   - **Language**: French
+
+7. **MSc expert IT – cybersécurité**
+   - **Specialisation**: Not specified
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Ferrières-en-Brie
+   - **Price**: 9900
+   - **Length**: 2.0 years
+   - **Language**: French
+
+This information is sourced directly from the provided database.",73edb89b-b830-4b48-bad0-2c2bc09c834d
+Nico,Tell me more about E89,"École 89 (GA ÉDUCATION) offers the following programs:
+
+1. **Bachelor en Programmation Informatique**
+   - Specialisation: Fullstack developer/Big Data/Mobile gaming
+   - Intake: Fall
+   - Level of Entry: BAC
+   - City: Ferrières-en-Brie
+   - Price: 8900
+   - Length: 3.0 years
+   - Language: French
+
+2. **Bachelor IA Marketing Digital et Communication**
+   - Specialisation: Not specified
+   - Intake: Fall
+   - Level of Entry: BAC
+   - City: Ferrières-en-Brie
+   - Price: 8900
+   - Length: 3.0 years
+   - Language: French
+
+3. **Bachelor Cybersécurité**
+   - Specialisation: Not specified
+   - Intake: Fall
+   - Level of Entry: BAC
+   - City: Ferrières-en-Brie
+   - Price: 8900
+   - Length: 3.0 years
+   - Language: French
+
+4. **MSc Expert IT – IA - Big Data**
+   - Specialisation: Not specified
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Ferrières-en-Brie
+   - Price: 9900
+   - Length: 2.0 years
+   - Language: French
+
+5. **MSc IA Marketing & Communication**
+   - Specialisation: Not specified
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Ferrières-en-Brie
+   - Price: 9900
+   - Length: 2.0 years
+   - Language: French
+
+6. **MSc IA Marketing & Business**
+   - Specialisation: Not specified
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Ferrières-en-Brie
+   - Price: 9900
+   - Length: 2.0 years
+   - Language: French
+
+7. **MSc expert IT – cybersécurité**
+   - Specialisation: Not specified
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Ferrières-en-Brie
+   - Price: 9900
+   - Length: 2.0 years
+   - Language: French
+
+This information is sourced directly from the provided database.",27f14639-6090-420f-859b-3b2caf6d550d
+Ei Mya,"only for the programs in alternanceISLAM ABOU-LAHHAB
++33 773124910
+Permis Bislamaboulahhab6@gmail.com
+FORMATION
+COMPÉTENCESPROFIL
+Étudiante en Master 2 en SCM et Achats à Brest Business School, je suis
+animée par une solide formation et une éthique professionnelle rigoureuse. 
+Ma motivation et ma conviction quant à ma capacité à m'adapter rapidement
+à de nouveaux défis sont des traits qui me définissent.
+Actuellement, je suis à la recherche d'un stage temps plein  à partir de juin
+2025.
+EXPÉRIENCES PROFESSIONNELLES
+Anglais (B2)
+Français (C1)LANGUESGrande école de commerce
+ Brest Business School                             09/2024 
+M2 en Supply Chain Management et Achats
+École Nationale de commerce et de
+gestion
+ENCG                                        09/2020 - 06/2024
+Master en Commerce Internatinal
+HARD SKILLS:
+Pack Microsoft 365 (Word, Excel,
+PowerPoint, Outlook, Publisher).
+Les bases de SAP et ERP
+Gestion de projet 
+Configuration de la supply chain
+management
+SOFT SKILLS:
+Esprit d’équipe
+Rigoureuse
+Communication efficace
+Résolution de problèmes
+Analyse des données
+Espagnol (A2)
+Arabe (C2)Assistante service clients:
+ SAHAM ASSURANCES | Mai 2021 à Septembre 2021
+ Accueillir physiquement les clients, les visiteurs
+Traitement des demandes clients et gestion des réclamations 
+Contribution à la gestion du portefeuille de clients 
+Commercialisation des produits d'assuranceDANONE | Juin 2022 à Octobre 2022Stagiaire en Gestion des Opérations Logistiques Internes :
+Gestion du flux de livraison entre entrepôts et clients, incluant suivi des
+commandes et organisation des transports.
+Supervision du processus de réception, tri et distribution des courriers
+entrants et sortants.
+Suivi, mise à jour et analyse des indicateurs de performance clés:
+gestion des niveaux de stocks, amélioration du taux de service clients...Stagiaire en logistique :
+SOREMED | Mai 2023 à Septembre 2023
+Coordonner et contrôler l’ensemble des opérations de la chaine logistique (
+réceptions, préparations, stockage, expéditions et livraisons.
+Suivi des niveaux de stocks en entrepôt et optimisation des niveaux de stock.
+ Collaboration interservices : coordination avec les équipes de production et de
+logistique pour assurer l'alignement des opérations.
+Développement des relations avec les clients et fournisseurs.MSIMO TRANS | Février 2024 à Août 2024Stagiaire coordinatrice logistique et transport 
+Coordonner les commandes et contrôler les délais de livraison en lien avec les
+fournisseurs et les transporteurs.
+Participer au suivi des niveaux de stocks des matières premières et des produits
+finis, en veillant à l'optimisation des capacités de stockage.
+Suivi de dossier transport et à l’analyse des indicateurs de performance (KPI).
+ACTIVITÉS PARASCOLAIRES
+Trésorière
+Suivi des mouvements financiers
+Gestion de la caisse
+Présenter un bilan financier lors des
+réunionsGérer les besoins matériels pour les
+événements 
+Planification et organisation des transports 
+Veiller au bon état  des équipements stockésÉtudiante à      – M2
+   SUPPLY CHAIN MANAGEMENT ET ACHATS
+Responsable LogistiqueAssociation Rotary    |  Septembre 2021 à Juin 2024","Here are the programs available in alternance suitable for ISLAM ABOU-LAHHAB:
+
+1. **ISC Paris Grande École de Commerce**
+   - **Program Name**: MSc in Supply Chain Management
+   - **Intake**: Fall, Spring
+   - **Level of Entry**: BAC3
+   - **City**: Paris
+   - **Price**: 0 (alternance)
+   - **Length**: 2.0 years
+   - **Language**: French
+
+2. **ICD (IGENSIA Group)**
+   - **Program Name**: Master in Management (Master Grande École)
+   - **Specialisation**: Purchasing and Supply Chain Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC
+   - **City**: Paris, Toulouse
+   - **Price**: 12000 (alternance)
+   - **Length**: 5.0 years
+   - **Language**: Both
+
+3. **IÉSEG School of Management**
+   - **Program Name**: Master in Management (Master Grande École)
+   - **Specialisation**: Operation & Supply Chain Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille, Paris
+   - **Price**: 0 (alternance)
+   - **Length**: 2.0 years
+   - **Language**: English
+
+These programs offer the opportunity to gain practical experience while studying, which aligns well with her background and career goals in Supply Chain Management.",e7b18c1c-b625-4d59-a776-cf3faf1ab2d7
+Ei Mya,"recommend her more schools for MSISLAM ABOU-LAHHAB
++33 773124910
+Permis Bislamaboulahhab6@gmail.com
+FORMATION
+COMPÉTENCESPROFIL
+Étudiante en Master 2 en SCM et Achats à Brest Business School, je suis
+animée par une solide formation et une éthique professionnelle rigoureuse. 
+Ma motivation et ma conviction quant à ma capacité à m'adapter rapidement
+à de nouveaux défis sont des traits qui me définissent.
+Actuellement, je suis à la recherche d'un stage temps plein  à partir de juin
+2025.
+EXPÉRIENCES PROFESSIONNELLES
+Anglais (B2)
+Français (C1)LANGUESGrande école de commerce
+ Brest Business School                             09/2024 
+M2 en Supply Chain Management et Achats
+École Nationale de commerce et de
+gestion
+ENCG                                        09/2020 - 06/2024
+Master en Commerce Internatinal
+HARD SKILLS:
+Pack Microsoft 365 (Word, Excel,
+PowerPoint, Outlook, Publisher).
+Les bases de SAP et ERP
+Gestion de projet 
+Configuration de la supply chain
+management
+SOFT SKILLS:
+Esprit d’équipe
+Rigoureuse
+Communication efficace
+Résolution de problèmes
+Analyse des données
+Espagnol (A2)
+Arabe (C2)Assistante service clients:
+ SAHAM ASSURANCES | Mai 2021 à Septembre 2021
+ Accueillir physiquement les clients, les visiteurs
+Traitement des demandes clients et gestion des réclamations 
+Contribution à la gestion du portefeuille de clients 
+Commercialisation des produits d'assuranceDANONE | Juin 2022 à Octobre 2022Stagiaire en Gestion des Opérations Logistiques Internes :
+Gestion du flux de livraison entre entrepôts et clients, incluant suivi des
+commandes et organisation des transports.
+Supervision du processus de réception, tri et distribution des courriers
+entrants et sortants.
+Suivi, mise à jour et analyse des indicateurs de performance clés:
+gestion des niveaux de stocks, amélioration du taux de service clients...Stagiaire en logistique :
+SOREMED | Mai 2023 à Septembre 2023
+Coordonner et contrôler l’ensemble des opérations de la chaine logistique (
+réceptions, préparations, stockage, expéditions et livraisons.
+Suivi des niveaux de stocks en entrepôt et optimisation des niveaux de stock.
+ Collaboration interservices : coordination avec les équipes de production et de
+logistique pour assurer l'alignement des opérations.
+Développement des relations avec les clients et fournisseurs.MSIMO TRANS | Février 2024 à Août 2024Stagiaire coordinatrice logistique et transport 
+Coordonner les commandes et contrôler les délais de livraison en lien avec les
+fournisseurs et les transporteurs.
+Participer au suivi des niveaux de stocks des matières premières et des produits
+finis, en veillant à l'optimisation des capacités de stockage.
+Suivi de dossier transport et à l’analyse des indicateurs de performance (KPI).
+ACTIVITÉS PARASCOLAIRES
+Trésorière
+Suivi des mouvements financiers
+Gestion de la caisse
+Présenter un bilan financier lors des
+réunionsGérer les besoins matériels pour les
+événements 
+Planification et organisation des transports 
+Veiller au bon état  des équipements stockésÉtudiante à      – M2
+   SUPPLY CHAIN MANAGEMENT ET ACHATS
+Responsable LogistiqueAssociation Rotary    |  Septembre 2021 à Juin 2024","Here are additional recommendations for Master of Science (MS) programs suitable for ISLAM ABOU-LAHHAB:
+
+1. **SKEMA Business School**
+   - **Program Name**: MSc in Supply Chain Management
+   - **Intake**: Fall, Spring
+   - **Level of Entry**: BAC3
+   - **City**: Lille, Sophia Antipolis
+   - **Price**: 19000
+   - **Length**: 2.0 years
+   - **Language**: English
+
+2. **ESCE International Business School (OMNES Group)**
+   - **Program Name**: MSc in Supply Chain Management & Purchasing
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Paris
+   - **Price**: 10910
+   - **Length**: 2.0 years
+   - **Language**: English
+
+3. **EM Strasbourg Business School**
+   - **Program Name**: MSc in Supply Chain Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Strasbourg
+   - **Price**: 10500
+   - **Length**: 2.0 years
+   - **Language**: Both
+
+4. **ESSCA Business School**
+   - **Program Name**: MSc in Management of Supply Chain
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Angers, Lyon, Paris
+   - **Price**: 18400
+   - **Length**: 1.5 years
+   - **Language**: English
+
+These programs will further enhance her expertise in Supply Chain Management and align with her career goals.",7be6cf34-fdb4-43d0-9f79-8d5282406a3f
+Ei Mya,"Recommend her MS, not MSc nor master in managementISLAM ABOU-LAHHAB
++33 773124910
+Permis Bislamaboulahhab6@gmail.com
+FORMATION
+COMPÉTENCESPROFIL
+Étudiante en Master 2 en SCM et Achats à Brest Business School, je suis
+animée par une solide formation et une éthique professionnelle rigoureuse. 
+Ma motivation et ma conviction quant à ma capacité à m'adapter rapidement
+à de nouveaux défis sont des traits qui me définissent.
+Actuellement, je suis à la recherche d'un stage temps plein  à partir de juin
+2025.
+EXPÉRIENCES PROFESSIONNELLES
+Anglais (B2)
+Français (C1)LANGUESGrande école de commerce
+ Brest Business School                             09/2024 
+M2 en Supply Chain Management et Achats
+École Nationale de commerce et de
+gestion
+ENCG                                        09/2020 - 06/2024
+Master en Commerce Internatinal
+HARD SKILLS:
+Pack Microsoft 365 (Word, Excel,
+PowerPoint, Outlook, Publisher).
+Les bases de SAP et ERP
+Gestion de projet 
+Configuration de la supply chain
+management
+SOFT SKILLS:
+Esprit d’équipe
+Rigoureuse
+Communication efficace
+Résolution de problèmes
+Analyse des données
+Espagnol (A2)
+Arabe (C2)Assistante service clients:
+ SAHAM ASSURANCES | Mai 2021 à Septembre 2021
+ Accueillir physiquement les clients, les visiteurs
+Traitement des demandes clients et gestion des réclamations 
+Contribution à la gestion du portefeuille de clients 
+Commercialisation des produits d'assuranceDANONE | Juin 2022 à Octobre 2022Stagiaire en Gestion des Opérations Logistiques Internes :
+Gestion du flux de livraison entre entrepôts et clients, incluant suivi des
+commandes et organisation des transports.
+Supervision du processus de réception, tri et distribution des courriers
+entrants et sortants.
+Suivi, mise à jour et analyse des indicateurs de performance clés:
+gestion des niveaux de stocks, amélioration du taux de service clients...Stagiaire en logistique :
+SOREMED | Mai 2023 à Septembre 2023
+Coordonner et contrôler l’ensemble des opérations de la chaine logistique (
+réceptions, préparations, stockage, expéditions et livraisons.
+Suivi des niveaux de stocks en entrepôt et optimisation des niveaux de stock.
+ Collaboration interservices : coordination avec les équipes de production et de
+logistique pour assurer l'alignement des opérations.
+Développement des relations avec les clients et fournisseurs.MSIMO TRANS | Février 2024 à Août 2024Stagiaire coordinatrice logistique et transport 
+Coordonner les commandes et contrôler les délais de livraison en lien avec les
+fournisseurs et les transporteurs.
+Participer au suivi des niveaux de stocks des matières premières et des produits
+finis, en veillant à l'optimisation des capacités de stockage.
+Suivi de dossier transport et à l’analyse des indicateurs de performance (KPI).
+ACTIVITÉS PARASCOLAIRES
+Trésorière
+Suivi des mouvements financiers
+Gestion de la caisse
+Présenter un bilan financier lors des
+réunionsGérer les besoins matériels pour les
+événements 
+Planification et organisation des transports 
+Veiller au bon état  des équipements stockésÉtudiante à      – M2
+   SUPPLY CHAIN MANAGEMENT ET ACHATS
+Responsable LogistiqueAssociation Rotary    |  Septembre 2021 à Juin 2024","Based on ISLAM ABOU-LAHHAB's profile and her request for a Master of Science (MS) program, here are the relevant options:
+
+1. **Brest Business School**
+   - **Program Name**: Mastère Spécialisé® Manager de la Supply Chain
+   - **Intake**: Fall, Spring
+   - **Level of Entry**: BAC5
+   - **City**: Online
+   - **Price**: 12300
+   - **Length**: 1.0 year
+   - **Language**: French
+
+2. **KEDGE Business School**
+   - **Program Name**: Mastère Spécialisé Innovation et Santé
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Marseille
+   - **Price**: 16500
+   - **Length**: 1.0 year
+   - **Language**: French
+
+3. **IÉSEG School of Management**
+   - **Program Name**: Mastère Spécialisé® en Supply Chain Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC5
+   - **City**: Lille, Paris
+   - **Price**: 13500
+   - **Length**: 1.0 year
+   - **Language**: English
+
+These programs are tailored to her background in Supply Chain Management and will enhance her skills and knowledge in the field.",efb97843-d7c1-41ef-8560-8a75ee7f0369
+Ei Mya,"Based on her CV, recommend me a program ISLAM ABOU-LAHHAB
++33 773124910
+Permis Bislamaboulahhab6@gmail.com
+FORMATION
+COMPÉTENCESPROFIL
+Étudiante en Master 2 en SCM et Achats à Brest Business School, je suis
+animée par une solide formation et une éthique professionnelle rigoureuse. 
+Ma motivation et ma conviction quant à ma capacité à m'adapter rapidement
+à de nouveaux défis sont des traits qui me définissent.
+Actuellement, je suis à la recherche d'un stage temps plein  à partir de juin
+2025.
+EXPÉRIENCES PROFESSIONNELLES
+Anglais (B2)
+Français (C1)LANGUESGrande école de commerce
+ Brest Business School                             09/2024 
+M2 en Supply Chain Management et Achats
+École Nationale de commerce et de
+gestion
+ENCG                                        09/2020 - 06/2024
+Master en Commerce Internatinal
+HARD SKILLS:
+Pack Microsoft 365 (Word, Excel,
+PowerPoint, Outlook, Publisher).
+Les bases de SAP et ERP
+Gestion de projet 
+Configuration de la supply chain
+management
+SOFT SKILLS:
+Esprit d’équipe
+Rigoureuse
+Communication efficace
+Résolution de problèmes
+Analyse des données
+Espagnol (A2)
+Arabe (C2)Assistante service clients:
+ SAHAM ASSURANCES | Mai 2021 à Septembre 2021
+ Accueillir physiquement les clients, les visiteurs
+Traitement des demandes clients et gestion des réclamations 
+Contribution à la gestion du portefeuille de clients 
+Commercialisation des produits d'assuranceDANONE | Juin 2022 à Octobre 2022Stagiaire en Gestion des Opérations Logistiques Internes :
+Gestion du flux de livraison entre entrepôts et clients, incluant suivi des
+commandes et organisation des transports.
+Supervision du processus de réception, tri et distribution des courriers
+entrants et sortants.
+Suivi, mise à jour et analyse des indicateurs de performance clés:
+gestion des niveaux de stocks, amélioration du taux de service clients...Stagiaire en logistique :
+SOREMED | Mai 2023 à Septembre 2023
+Coordonner et contrôler l’ensemble des opérations de la chaine logistique (
+réceptions, préparations, stockage, expéditions et livraisons.
+Suivi des niveaux de stocks en entrepôt et optimisation des niveaux de stock.
+ Collaboration interservices : coordination avec les équipes de production et de
+logistique pour assurer l'alignement des opérations.
+Développement des relations avec les clients et fournisseurs.MSIMO TRANS | Février 2024 à Août 2024Stagiaire coordinatrice logistique et transport 
+Coordonner les commandes et contrôler les délais de livraison en lien avec les
+fournisseurs et les transporteurs.
+Participer au suivi des niveaux de stocks des matières premières et des produits
+finis, en veillant à l'optimisation des capacités de stockage.
+Suivi de dossier transport et à l’analyse des indicateurs de performance (KPI).
+ACTIVITÉS PARASCOLAIRES
+Trésorière
+Suivi des mouvements financiers
+Gestion de la caisse
+Présenter un bilan financier lors des
+réunionsGérer les besoins matériels pour les
+événements 
+Planification et organisation des transports 
+Veiller au bon état  des équipements stockésÉtudiante à      – M2
+   SUPPLY CHAIN MANAGEMENT ET ACHATS
+Responsable LogistiqueAssociation Rotary    |  Septembre 2021 à Juin 2024","Based on the profile of ISLAM ABOU-LAHHAB, I recommend the following programs that align with her background in Supply Chain Management and her experience in logistics:
+
+1. **Brest Business School**
+   - **Program Name**: Master in Management (Master Grande École)
+   - **Specialisation**: International Business/Audit Expertise/Contrôle de Gestion/Supply Chain Management
+   - **Intake**: Fall, Spring
+   - **Level of Entry**: BAC3
+   - **City**: Brest
+   - **Price**: 13500
+   - **Length**: 2.0 years
+   - **Language**: Both
+
+2. **KEDGE Business School**
+   - **Program Name**: MSc Global Supply Chain Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Bordeaux
+   - **Price**: 9500
+   - **Length**: 2.0 years
+   - **Language**: English
+
+3. **IÉSEG School of Management**
+   - **Program Name**: Master in Management (Master Grande École)
+   - **Specialisation**: Operation & Supply Chain Management
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille, Paris
+   - **Price**: 12720
+   - **Length**: 2.0 years
+   - **Language**: English
+
+These programs are well-suited for her career aspirations in supply chain management and logistics.",e5c37a56-eabb-49e9-ba74-490df94e2da0
+manal elkobbi ,"donne moi des programme 2 eme année cycle d'ingénieur en français sur la ville lille , donne moi des écoles differents ","Voici des programmes de 2ème année de cycle d'ingénieur en français à Lille provenant de différentes écoles :
+
+1. **JUNIA HEI**
+   - **Programme**: Cycle Ingénieur
+   - **Spécialisation**: Bâtiment et Travaux Publics/Informatique et Technologies de l'Information/Ingénierie médicale et santé/Bâtiment Aménagement Architecture/Conception Mécanique/Smart Cities/Chimie Innovante et Transition Écologique/Mécatronique - Robotique/Électricité et Transition Énergétique/Technologie Innovation et Management International Textiles/Management des Opérations Industrielles et Logistiques/Entrepreneuriat Intrapreneuriat Extrapreneuriat/Management finance/Management Trade & Consumer
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille
+   - **Price**: 9500
+   - **Length**: 2.0
+   - **Language**: French
+
+2. **IET (FIGS Group)**
+   - **Programme**: Cycle Ingénieur
+   - **Spécialisation**: Management et Sciences de l'Ingénieur
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille
+   - **Price**: 0
+   - **Length**: 2.0
+   - **Language**: French
+
+Ces informations sont basées sur les données fournies.",6ffe77b5-72aa-43d2-85aa-771891804766
+manal elkobbi ,donne moi des programme  2 eme année cycle d'ingénieur en français à lille ,"Voici les programmes de 2ème année de cycle d'ingénieur en français à Lille :
+
+1. **JUNIA HEI**
+   - **Programme**: Cycle Ingénieur
+   - **Spécialisation**: Bâtiment et Travaux Publics/Informatique et Technologies de l'Information/Ingénierie médicale et santé/Bâtiment Aménagement Architecture/Conception Mécanique/Smart Cities/Chimie Innovante et Transition Écologique/Mécatronique - Robotique/Électricité et Transition Énergétique/Technologie Innovation et Management International Textiles/Management des Opérations Industrielles et Logistiques/Entrepreneuriat Intrapreneuriat Extrapreneuriat/Management finance/Management Trade & Consumer
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille
+   - **Price**: 9500
+   - **Length**: 2.0
+   - **Language**: French
+
+2. **JUNIA ISEN**
+   - **Programme**: Cycle Ingénieur
+   - **Spécialisation**: Développement logiciel et systèmes d'information/Robotique Mobile/Intelligence artificielle/Microélectronique et nanotechnologies/Big Data/Électronique embarquée/Ingénieur d'affaires/Informatique et Finance/Cybersécurité/E-santé/Entrepreneuriat, Intrapreneuriat et Extrapreneuriat
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Lille
+   - **Price**: 0
+   - **Length**: 2.0
+   - **Language**: French
+
+Ces informations sont basées sur les données fournies.",1538915e-7140-450a-b23d-946a06f7a686
+Dhikra,i need something in the top schools,"Here are the Master's programs in Corporate Finance offered by top schools:
+
+1. **School Name**: emlyon business school  
+   **Program Name**: MSc in Finance  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Lyon  
+   **Price**: €15,000  
+   **Length**: 1.5 years  
+   **Language**: English  
+
+2. **School Name**: HEC Paris  
+   **Program Name**: MSc in Finance  
+   **Intake**: Fall  
+   **Level of Entry**: BAC4  
+   **City**: Paris  
+   **Price**: €22,000  
+   **Length**: 1.0 year  
+   **Language**: English  
+
+3. **School Name**: ESSEC Business School  
+   **Program Name**: MSc in Finance  
+   **Intake**: Fall  
+   **Level of Entry**: BAC4  
+   **City**: Cergy  
+   **Price**: €20,000  
+   **Length**: 1.0 year  
+   **Language**: English  
+
+Unfortunately, the programs listed above do not meet the criteria of being less than €15,000. 
+
+This information is sourced directly from the provided database.",b460cfe3-8515-4b9d-9724-596d4429b824
+Dhikra,i need corporate finance programme in master,"Here are the available Master's programs specifically in Corporate Finance:
+
+1. **School Name**: Burgundy School of Business  
+   **Program Name**: MSc Corporate Finance & Investment Banking  
+   **Intake**: Fall  
+   **Level of Entry**: BAC4  
+   **City**: Dijon  
+   **Price**: €16,000  
+   **Length**: 1.5 years  
+   **Language**: English  
+
+2. **School Name**: ICN Business School  
+   **Program Name**: MSc Corporate Finance  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Paris  
+   **Price**: €12,000  
+   **Length**: 2.0 years  
+   **Language**: English  
+
+3. **School Name**: KEDGE Business School  
+   **Program Name**: MSc Corporate Finance  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Marseille  
+   **Price**: €9,500  
+   **Length**: 2.0 years  
+   **Language**: English  
+
+This information is sourced directly from the provided database.",6f017d66-0bdd-42fe-a109-f441959fa452
+Dhikra,Can you give me details about master in management of Kedge business school with finance option,"Here are the details for the Master in Management (Master Grande École) at KEDGE Business School with a Finance option:
+
+- **School Name**: KEDGE Business School  
+- **Program Name**: Master in Management (Master Grande École)  
+- **Specialisation**: Entrepreneuriat /Finance accounting audit /Operations management/Marketing/Culture & innovation/CSR/RH/Luxury Management /Digital marketing/International business & geostrategy/All Masters of Science are available/  
+- **Intake**: Fall  
+- **Level of Entry**: BAC3  
+- **City**: Bordeaux, Marseille  
+- **Price**: €16,000  
+- **Length**: 2.0 years  
+- **Language**: English  
+
+This information is sourced directly from the provided database.",d6abd36c-2813-44da-bc78-756f4f3ad856
+Dhikra,i need a master in management with corporate finance option less than 15000,"Here are the available Master's programs in Management with a Corporate Finance option, conducted in English, and with a fee of less than €15,000:
+
+1. **School Name**: NEOMA Business School  
+   **Program Name**: Master in Management (Master Grande École)  
+   **Specialisation**: All Masters of Science are available /All Masters of Science are available /All Mastères spécialisés are available /Marketing & Business Development/Finance /Supply Chain Management and Purchasing/  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Reims, Rouen  
+   **Price**: €17,500  
+   **Length**: 2.0 years  
+   **Language**: English  
+
+Unfortunately, there are no Master's programs in Management with a Corporate Finance option that meet the criteria of being less than €15,000.
+
+This information is sourced directly from the provided database.",26ca1456-1503-4cda-b8dc-ea35fb59ecf9
+Dhikra,i need master in management less than 15000 full in english,"Here are the available Master's programs in Management, conducted in English, with a fee of less than €15,000:
+
+1. **School Name**: IMT Business School  
+   **Program Name**: Master in Management (Master Grande École)  
+   **Specialisation**: Digital and Data Management/ Management des Systèmes d’Information (MSI) /Ingénierie des Systèmes d’Information (ISI) /Business Dévelopment International (BDI) /Management of Innovation in the Digital Economy (MIDE)/Innovation, design et entrepreneuriat engagé (IDEE) /Management de projets digitaux et média (MEDIA) /Systèmes d’information pour la Finance de Marché (SIF) /Management stratégique et industrie du futur (MSIF) /Marketing Digital (MD)/Audit et Conseil en Systèmes d’Information (ACSI) /  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Évry-Courcouronnes  
+   **Price**: €15,500  
+   **Length**: 2.0 years  
+   **Language**: English  
+
+2. **School Name**: NEOMA Business School  
+   **Program Name**: Master in Management (Master Grande École)  
+   **Specialisation**: All Masters of Science are available /All Masters of Science are available /All Mastères spécialisés are available /Marketing & Business Development/Finance /Supply Chain Management and Purchasing/  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Reims, Rouen  
+   **Price**: €17,500  
+   **Length**: 2.0 years  
+   **Language**: English  
+
+Unfortunately, the programs listed above do not meet the criteria of being less than €15,000. 
+
+This information is sourced directly from the provided database.",735f0d4d-0ee2-478b-9f90-7ea47362a00c
+Dhikra,"i need a master Programm for Corporate finance, full in english near to paris and less than 15000","Here are the available Master's programs in Corporate Finance, conducted in English, near Paris, and with a fee of less than €15,000:
+
+1. **School Name**: ICN Business School  
+   **Program Name**: MSc Corporate Finance  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Paris  
+   **Price**: €12,000  
+   **Length**: 2.0 years  
+   **Language**: English  
+
+2. **School Name**: ESG FINANCE (GALILEO Group)  
+   **Program Name**: Mastère Finance d'Entreprise  
+   **Intake**: Fall  
+   **Level of Entry**: BAC3  
+   **City**: Paris  
+   **Price**: €10,100  
+   **Length**: 2.0 years  
+   **Language**: French  
+
+This information is sourced directly from the provided database.",a285cf8e-c138-48e4-8e39-63bc37593856
+cyrus,"propose un programme de un an basé sur ce cvEXPÉRIENCES PROFESSIONNELLES
+Assistante Comptable 
+CCJF - Casablanca, Janvier - Juin 2024
+Assurer la saisie comptable : enregistrer les factures fournisseurs, clients et notes de
+frais, ainsi que les écritures de journal conformément aux procédures internes.
+Collecter, vérifier et archiver tous les documents comptables de manière organisée
+et accessibles.
+Contribuer aux clôtures mensuelles et la réalisation de reporting pour les clients.
+Préparer et déclarer la TVA et traiter l’ensemble des déclarations fiscales des
+dossiers clients.
+Effectuer le rapprochement bancaire et participer au suivi et lettrage des comptes
+clients et fournisseurs.
+Contrôleuse de Gestion   
+ Sanlam Group - Casablanca, Janvier - Avril 2023
+Accompagner les opérationnels dans les l’élaboration du budgets.
+Fournir les résultats des analyses économiques et financières de l’entreprise.
+Participer a la conception  d’outils nécessaires au suivi des résultats.
+Contribuer aux clôtures mensuelles et la réalisation de reporting.
+Participer à des analyses ad hoc. 
+Suivre les KPIs en participant à l’analyse des écarts budgétaires et des ratios
+financiers. 
+optimiser le suivi des CAPEX via la création de tableaux de bord sur excel et power BI.
+Contrôleuse Financière 
+Vivo Energy - Casablanca, Juin - Décembre 2022
+Participer à l’élaboration des tableaux de bord et des Forecasts pour suivre la
+performance des investissements, facilitant ainsi la prise de décision.
+Réaliser une analyse approfondie des écarts budgétaires, permettant d’identifier des
+pistes d’amélioration et d’augmenter la précision des prévisions.
+Conduire et suivre de projets ad hoc ayant un lien ou des impacts sur la situation
+financière, les équipes et les processus comptables et financières de ses filiales.
+Contribution à la préparation de rapports financiers consolidés destinés à la direction
+et aux actionnaires .
+Réalisation d'études de rentabilité sur de nouveaux projets d'investissement, analyse
+de l'impact des variations de prix sur les marges.
+Master 2 - Finance et Gestion de Patrimoine 
+Brest Business School       2024 - 2025
+Master 2 - Gestion Financière et Comptable
+Ecole Nationale de Commerce et Gestion - Maroc - El Jadida
+2020 - 2025
+Baccalauréat - Sciences de Gestion Comptable - Mention Bien
+Lycée Khadija Oum Almouminine    2018 - 2019
+Microsoft Excel 
+Microsoft Word 
+Power Point
+Power BI
+SAP
+Sage 100 i7
+Coala
+COMPÉTENCES PERSONNELLESCONTACT
+FORMATIONS
+LANGUES 
+Français : Bilingue
+Anglais : TOEIC B2
+Arabe : Nativezinebassel4@gmail.com
+Zinebassel07  73 37 98 29
+Mobilité en France
+OUTILS INFORMATIQUES Zineb ASSEL
+Travailler en équipe
+Sens d’organisation
+Communication
+Capacité d’adaptation
+Esprit d’analyse et de synthèse
+Esprit méthodique
+COMPÉTENCES TECHNIQUES
+Processus de clôture mensuelle
+Comptabilité générale et Fiscalité
+Rapprochement des comptes  
+Elaboration du Budget
+Analyse financière
+Normes : CPA, IFRS
+Contrôles internes Etudiante en M2 à Brest Business School PGE option finance
+et gestion de patrimoine, à la recherche d’un stage PFE de 6
+mois à partir de juin 2025","Voici un programme d'un an qui pourrait correspondre à votre profil et à vos expériences professionnelles :
+
+**School Name**: IÉSEG School of Management  
+**Program Name**: Master in Finance  
+**Specialisation**: Financial Analysis/Banking, Capital Markets & Financial Technology  
+**Intake**: Fall  
+**Level of Entry**: BAC3  
+**City**: Paris  
+**Price**: 10600  
+**Length**: 2.0 years  
+**Language**: English  
+
+Ce programme est axé sur l'analyse financière et les technologies financières, ce qui pourrait compléter vos compétences en finance et gestion de patrimoine. Si vous avez besoin d'autres options ou d'informations supplémentaires, n'hésitez pas à demander !",7994c4a1-e6a9-4fa7-bf29-c6140c2aa7fe
+cyrus,trouve moi un programme bachelor commerce en francais stp boss,"Voici les programmes de Bachelor en Commerce disponibles en français :
+
+1. **School Name**: ESG Rouen (Galileo Group)  
+   **Program Name**: Bachelor Généraliste  
+   **Specialisation**: Commerce Marketing/ Communication/Ressources Humaines/Commerce Marketing Option Entrepreneuriat/Clientèle banque et assurance  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Rouen  
+   **Price**: 7700  
+   **Length**: 3.0  
+   **Language**: French  
+
+2. **School Name**: ESG Tours (Galileo Group)  
+   **Program Name**: Bachelor Commerce Marketing  
+   **Specialisation**: -  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Tours  
+   **Price**: 7700  
+   **Length**: 3.0  
+   **Language**: French  
+
+3. **School Name**: ICD (IGENSIA Group)  
+   **Program Name**: Bachelor Business et Marketing  
+   **Specialisation**: Développement d’affaires/Marketing digital et e-business  
+   **Intake**: Fall  
+   **Level of Entry**: BAC  
+   **City**: Paris  
+   **Price**: 8650  
+   **Length**: 3.0  
+   **Language**: Both  
+
+4. **School Name**: ESGCI (GALILEO Group)  
+   **Program Name**: Bachelor Commerce Marketing  
+   **Specialisation**: -  
+   **Intake**: Fall, Spring  
+   **Level of Entry**: BAC  
+   **City**: Paris  
+   **Price**: 8300  
+   **Length**: 3.0  
+   **Language**: French  
+
+Si vous avez besoin de plus d'informations ou d'autres programmes, n'hésitez pas à demander !",7458081b-db31-4820-87ab-1435d343da4f
+cyrus,ca va boss ?,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",e553ec61-0cf6-43df-9dfc-e574dac01a4a
+omar,looking for master in electronics,"The information regarding a Master's program specifically in Electronics is not available in the provided database. If you have any other specific programs or fields in mind, please let me know!",7791e43f-fd67-497c-b675-dd985b423207
+omar,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",babfab69-9e23-4ebc-b41f-84fc915ada1c
+omar,list 5 of skema programs,"Here are 5 programs offered by SKEMA Business School:
+
+1. **Global BBA**
+   - Specialisation: Accounting/E-commerce & Digital Strategy/Luxury Brand Management/Sustainable Development & Social Responsibility/Corporate Finance/Entrepreneurship & Business Administration/Marketing
+   - Intake: Fall, Spring
+   - Level of Entry: BAC
+   - City: Lille, Sophia Antipolis
+   - Price: 14,000
+   - Length: 4.0 years
+   - Language: English
+
+2. **Master in Management (Master Grande Ecole)**
+   - Specialisation: Marketing Digital & Data Analytics/Contrôle de Gestion & Audit/Strategic Marketing & Business Development
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Lille, Paris, Sophia Antipolis
+   - Price: 18,500
+   - Length: 2.0 years
+   - Language: English
+
+3. **MSc Auditing, Management Accounting & Information Systems**
+   - Specialisation: N/A
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Paris
+   - Price: 19,000
+   - Length: 2.0 years
+   - Language: English
+
+4. **MSc Digital Marketing and Artificial Intelligence**
+   - Specialisation: N/A
+   - Intake: Fall, Spring
+   - Level of Entry: BAC3
+   - City: Sophia-Antipolis
+   - Price: 19,000
+   - Length: 2.0 years
+   - Language: English
+
+5. **MSc International Business**
+   - Specialisation: N/A
+   - Intake: Fall, Spring
+   - Level of Entry: BAC3
+   - City: Paris
+   - Price: 19,000
+   - Length: 2.0 years
+   - Language: English",f91e0538-fd8e-4a3f-baa1-a316694fe821
+omar,am lookinf for msc in electronics,The information regarding an MSc in Electronics is not available in the provided database.,7db54245-89cc-4b0e-a229-f45e21e0fafe
+omar,I am looking for a master's degree in electronic engineering,The information regarding a master's degree specifically in electronic engineering is not available in the provided database.,624543bc-5e18-4a01-8ed3-8a7d2d1f7dac
+omar,list skema programs,"Here are the programs offered by SKEMA Business School:
+
+1. **Global BBA**
+   - Specialisation: Accounting/E-commerce & Digital Strategy/Luxury Brand Management/Sustainable Development & Social Responsibility/Corporate Finance/Entrepreneurship & Business Administration/Marketing
+   - Intake: Fall, Spring
+   - Level of Entry: BAC
+   - City: Lille, Sophia Antipolis
+   - Price: 14,000
+   - Length: 4.0 years
+   - Language: English
+
+2. **Master in Management (Master Grande Ecole)**
+   - Specialisation: Marketing Digital & Data Analytics/Contrôle de Gestion & Audit/Strategic Marketing & Business Development/Audit, Management Accounting & Finance/Project Management & Supply Chain
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Lille, Paris, Sophia Antipolis
+   - Price: 18,500
+   - Length: 2.0 years
+   - Language: English
+
+3. **Master in Management (Master Grande Ecole)**
+   - Specialisation: Marketing Digital & Data Analytics/Contrôle de Gestion & Audit/Strategic Marketing & Business Development/Audit, Management Accounting & Finance/Project Management & Supply Chain
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Lille, Paris
+   - Price: 0 (Alternance)
+   - Length: 2.0 years
+   - Language: English
+
+4. **MSc Auditing, Management Accounting & Information Systems**
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Paris
+   - Price: 19,000
+   - Length: 2.0 years
+   - Language: English
+
+5. **MSc Business Consulting & Decision Intelligence**
+   - Intake: Fall, Spring
+   - Level of Entry: BAC3
+   - City: Paris, Sophia-Antipolis
+   - Price: 19,000
+   - Length: 2.0 years
+   - Language: English
+
+6. **MSc Corporate Financial Management**
+   - Intake: Fall, Spring
+   - Level of Entry: BAC3
+   - City: Paris, Sophia-Antipolis
+   - Price: 19,000
+   - Length: 2.0 years
+   - Language: English
+
+7. **MSc Digital Marketing and Artificial Intelligence**
+   - Intake: Fall, Spring
+   - Level of Entry: BAC3
+   - City: Sophia-Antipolis
+   - Price: 19,000
+   - Length: 2.0 years
+   - Language: English
+
+8. **MSc Entrepreneurship & Innovation**
+   - Intake: Fall, Spring
+   - Level of Entry: BAC3
+   - City: Sophia-Antipolis
+   - Price: 19,000
+   - Length: 2.0 years
+   - Language: English
+
+9. **MSc Financial Markets & Investments**
+   - Intake: Fall
+   - Level of Entry: BAC3
+   - City: Paris, Sophia-Antipolis
+   - Price: 23,000
+   - Length: 2.0 years
+   - Language: English
+
+10. **MSc in International Business**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC3
+    - City: Paris
+    - Price: 19,000
+    - Length: 2.0 years
+    - Language: English
+
+11. **MSc International Human Resources & Performance Management**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC3
+    - City: Paris
+    - Price: 19,000
+    - Length: 2.0 years
+    - Language: English
+
+12. **MSc International Marketing & Business Development**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC3
+    - City: Lille, Paris, Sophia-Antipolis
+    - Price: 19,000
+    - Length: 2.0 years
+    - Language: English
+
+13. **MSc Luxury & Fashion Management**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC3
+    - City: Sophia-Antipolis
+    - Price: 20,500
+    - Length: 2.0 years
+    - Language: English
+
+14. **MSc Project Management for Business Development**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC3
+    - City: Lille, Paris
+    - Price: 19,000
+    - Length: 2.0 years
+    - Language: English
+
+15. **MSc Sustainable Finance & Fintech**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC3
+    - City: Paris
+    - Price: 19,000
+    - Length: 2.0 years
+    - Language: English
+
+16. **MSc Sport, Event & Hospitality Management**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC3
+    - City: Sophia-Antipolis
+    - Price: 19,000
+    - Length: 2.0 years
+    - Language: English
+
+17. **MS Manager des Projets et Programmes**
+    - Intake: Spring
+    - Level of Entry: BAC5
+    - City: Paris
+    - Price: 18,000
+    - Length: 1.0 year
+    - Language: French
+
+18. **MS Chef de Projet Intelligence Artificielle**
+    - Intake: Fall
+    - Level of Entry: BAC5
+    - City: Paris
+    - Price: 18,000
+    - Length: 1.0 year
+    - Language: French
+
+19. **MS Expert en Contrôle de Gestion, Audit et Système d'Information**
+    - Specialisation: Contrôle Interne & Risques (CIA)/Management Accounting (CIMA)/Systèmes d’Information (CISA)/Audit Externe (DSCG UV 4)/Intelligence Artificielle (PL900)
+    - Intake: Fall, Spring
+    - Level of Entry: BAC5
+    - City: Lille, Paris
+    - Price: 18,000
+    - Length: 1.0 year
+    - Language: Mix
+
+20. **MS Manager de la Chaîne Logistique et Achats**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC5
+    - City: Lille, Paris
+    - Price: 18,000
+    - Length: 1.0 year
+    - Language: Mix
+
+21. **MS Manager en Gestion de Patrimoine Financier**
+    - Intake: Fall
+    - Level of Entry: BAC5
+    - City: Paris
+    - Price: 18,000
+    - Length: 1.0 year
+    - Language: French
+
+22. **Bachelor en Management et Sciences de l'Ingénieur**
+    - Intake: Fall
+    - Level of Entry: BAC
+    - City: Lille
+    - Price: 14,000
+    - Length: 4.0 years
+    - Language: English
+
+23. **MS Manager Marketing Data et Commerce Electronique**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC5
+    - City: Paris
+    - Price: 18,000
+    - Length: 1.0 year
+    - Language: French
+
+24. **MSc Global Supply Chain Management & Procurement**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC3
+    - City: Lille
+    - Price: 22,000
+    - Length: 2.0 years
+    - Language: English
+
+25. **MSc Artificial Intelligence for Business Transformation**
+    - Intake: Fall
+    - Level of Entry: BAC3
+    - City: Paris
+    - Price: 22,000
+    - Length: 2.0 years
+    - Language: English
+
+26. **MS Manager Marketing Data et Commerce Electronique**
+    - Intake: Fall, Spring
+    - Level of Entry: BAC5
+    - City: Lille, Online
+    - Price: 18,000
+    - Length: 1.0 year
+    - Language: French
+
+If you need more information or specific details about any program, feel free to ask!",6d0602fa-d0be-4787-ad49-965b6625a8d7
+Beshoy,hi,Hello! How can I assist you today?,bbacb42e-7fdb-4935-80e7-eeea7290b0aa
+Beshoy,hi ,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",933f5636-b6c8-453d-b6be-d7ae6f4fbda9
+omar,hi,"Hello! I'm StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",a523e576-1794-4688-b6dc-160a30290dc1
+Beshoy,hi,"Hello! I'm StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",e1d19997-dfab-4f88-9f5c-b859815e9a03
+hi,omar,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",9eb44bad-7e70-4f7e-930c-3a92c0268bd8
+omar,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",4abba452-b0e3-4415-9928-c0932bd58366
+omar,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",cdaf0ecd-7105-46f6-97d9-0f318a1f889a
+Beshoy,hi,"Hello! I'm StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",2472f16c-ae76-41e4-8d6c-4fa31a553dec
+Nico,quelle ecole,"Voici les écoles proposant les programmes mentionnés :
+
+1. **MSc Artificial Intelligence for Business**
+   - **École**: CESI
+
+2. **MSc Data Management & AI**
+   - **École**: ECE (OMNES Group)
+
+3. **MSc Cybersecurity Manager**
+   - **École**: ECE (OMNES Group)
+
+4. **MSc Artificial Intelligence**
+   - **École**: ECE (OMNES Group)
+
+Si vous avez besoin de plus d'informations sur une école ou un programme spécifique, n'hésitez pas à demander!",3eca7cc2-5853-4766-9a43-89cff4827d03
+Nico,"Youssef, étudiant en génie logiciel à Esprit, parti en échange en Allemagne en avril dernier et cherche un Master en IA/Cloud pour septembre, idéalement à Paris. Il doit vérifier avec Campus France Allemagne s’il peut faire sa demande de visa depuis là-bas. Son budget est flexible (10 000 € ) et il est ouvert à un programme technique ou mixte en IA/Cloud. Il a TCF B2. Voir si alternance possible, profil interessant","Bonjour! Je suis ici pour vous aider à trouver le meilleur programme pour Youssef.
+
+Voici les programmes de Master en IA/Cloud disponibles à Paris qui pourraient correspondre à son profil :
+
+1. **MSc Artificial Intelligence for Business**
+   - **Intake**: Fall
+   - **Level of Entry**: BAC4
+   - **City**: Cachan
+   - **Price**: 0 (alternance)
+   - **Length**: 1.0 year
+   - **Language**: French
+
+2. **MSc Data Management & AI**
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Paris
+   - **Price**: 13073
+   - **Length**: 2.0 years
+   - **Language**: English
+
+3. **MSc Cybersecurity Manager**
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Paris
+   - **Price**: 13073
+   - **Length**: 2.0 years
+   - **Language**: Both
+
+4. **MSc Artificial Intelligence**
+   - **Intake**: Fall
+   - **Level of Entry**: BAC3
+   - **City**: Paris
+   - **Price**: 13073
+   - **Length**: 2.0 years
+   - **Language**: English
+
+Le programme ""MSc Artificial Intelligence for Business"" est en alternance, ce qui pourrait être une option intéressante pour Youssef. Les autres programmes dépassent son budget de 10 000 €, mais il pourrait envisager des options de financement ou d'autres arrangements.
+
+N'hésitez pas à me faire savoir si vous avez besoin d'autres informations ou d'une assistance supplémentaire!",d2024ee9-9f44-4809-93f4-f431d5e20fe7
+Yousra,Je recherche un mastère 1 en génie éléctronique,L'information concernant un mastère 1 en génie électronique n'est pas disponible dans la base de données.,857ce53e-2c5a-4926-8d5b-8596a66aa757
+beshoy,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",41afd458-b6e5-48f2-883d-8ce700494240
+Beshoy,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",1216b6cd-4b17-4bf8-a973-6e2d35ff6182
+beshoy,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",f5c228cf-f3c9-4340-bcea-9ac414c294e0
+omar,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",f2153ae5-f557-4586-b142-1ae57e8c0bbe
+omar,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",280a9e14-5d74-4f1e-b2f4-ccffc30c8a6e
+Beshoy,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",96a4d41b-3978-4f6f-9397-47317f652801
+Beshoy,hi,Hello! How can I assist you today?,39029bc9-a8a2-47c0-8322-003d6650ab26
+omar,hello,How can I assist you today?,f6a4a2db-d9ca-4ebc-824d-07d09ed2e295
+omar,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",b9f90b46-d56e-4a0d-bfaf-e8d5763feb51
+Beshoy,hi,Hello! How can I assist you today?,487755f6-a084-44c2-8fd4-226b41ac1e35
+Beshoy,hii ,Hello again! How can I assist you today?,357195b1-ee6b-4f73-8b68-a80214d02c2e
+Beshoy,hi,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find the best-fit schools. How can I assist you today?",c6b5effb-5b71-4081-b06d-de8fecf48485
+foog,tell me more,"I'm unable to provide information on topics outside the scope of the database. If you could ask a specific question about a school, program, or related topic, I'll do my best to assist you based on the data available in the CSV-based vector database.",60df0ea8-be17-4cab-ac39-fcf565d49bb0
+foog,tell me more,I'm not sure what you are asking. Could you please clarify or ask a question that is within the scope of the provided database?,c724a930-62bb-4ec5-abf2-96ed408ffa33
+foog,tell me more,"I'm happy to provide more information about our services.
+
+To get started, could you please specify what type of information you're looking for? Are you interested in learning more about a specific school or program, or would you like me to suggest some options based on your interests?
+
+Please let me know how I can assist you further.",0ce1fe3f-b3fa-476d-b1c0-145a2930eda6
+foog,hello,"Hello! I am StudentGator Bot, here to assist the counselling and sales team in helping students find their ideal school match by accurately filtering schools using the structured data stored in a CSV-based vector database. How can I help you today?",9eec402a-32ca-4fec-9ebe-7ab7e6a13b9c
+nico,"Propose moi des master Affaires réglementaires, marketing pharmaceutique, management de la santé, innovation santé, MBA santé
+Je veux des masters en lien avec ces domaines","Bonjour ! Je suis StudentGator Bot, votre assistant pour trouver les meilleures écoles et programmes qui correspondent à vos intérêts.
+
+Vos demandes concernent des masters liés aux domaines de l'affaires réglementaires, du marketing pharmaceutique, du management de la santé, de l'innovation en santé et de l'MBA santé. Voici quelques propositions basées sur les données disponibles dans le vecteur de base :
+
+1.  **MSc Manager International des Industries et Services en Santé - Marketing** : Ce programme est proposé par IMIS (IGENSIA Group) à Lyon. Il s'agit d'un master en marketing pour les industries et services de santé.
+2.  **MSc Manager International des Industries et Services - Affaires réglementaires** : Ce programme est également proposé par IMIS (IGENSIA Group) à Lyon. Il s'agit d'un master en affaires réglementaires pour les industries et services.
+3.  **Mastère Spécialisé Expert en Banque et Ingénierie Financière** : Ce programme est proposé par Toulouse Business School à Paris et Toulouse. Bien que non spécifiquement lié au domaine de la santé, il peut être pertinent pour les professionnels souhaitant développer des compétences en gestion financière dans le secteur de la santé.
+4.  **MSc Marketing & Management In Sport Organizations** : Ce programme est proposé par Toulouse Business School à Toulouse. Bien que non spécifiquement lié au domaine de la santé, il peut être pertinent pour les professionnels souhaitant développer des compétences en marketing et gestion dans le secteur du sport et de l'activité physique.
+5.  **MSc Data Science & Artificial Intelligence** : Ce programme est proposé par Toulouse Business School à Toulouse. Il s'agit d'un master en intelligence artificielle et science des données qui peut être pertinent pour les professionnels souhaitant développer des compétences dans l'analyse de données et la prise de décision dans le secteur de la santé.
+6.  **MSc Data Marketing et IA** : Ce programme est proposé par Sup de Pub (OMNES Group) à Paris et Lyon. Il s'agit d'un master en marketing et intelligence artificielle qui peut être pertinent pour les professionnels souhaitant développer des compétences dans l'utilisation des données et de l'intelligence artificielle pour améliorer la stratégie marketing.
+7.  **MSc Communication de la Santé et du Bien Être** : Ce programme est proposé par Sup de Pub (OMNES Group) à Paris et Lyon. Il s'agit d'un master en communication liée à la santé et au bien-être qui peut être pertinent pour les professionnels souhaitant développer des compétences dans la communication et la promotion de produits ou services liés à la santé.
+
+Ces propositions sont basées sur les données disponibles dans le vecteur de base. Il est recommandé de consulter les sites web des écoles et programmes proposés pour obtenir plus d'informations détaillées sur les contenus, les objectifs et les exigences des programmes.",10ea76af-f985-4013-aed4-709339634139
+ahmed,thank you !,I can't provide information on financial institutions or services. Is there anything else I can help you with?,a02cfbbe-963b-4b81-b60b-4cbf5c344d40
+ahmed,could you provide the answer in a table ,"This information is sourced directly from the provided database.
+
+Here are some finance-related programs available in France:
+
+| School Name | Program Name | Specialization | Intake | Level of Entry | City | Price | Length | Language |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| IDRAC (FIGS Group) | Master in Management (Master Grande Ecole) - Data management & business anaytics/Marketing digital & innovation /International business development/ |  | ['Fall'] | BAC3 | Paris | 0 | 2.0 | French |
+| IDRAC (FIGS Group) | MBA Ingénierie d'affaires |  | ['Fall'] | BAC3 | Paris | 0 | 2.0 | French |
+| KEDGE Business School | MSc Banking & Finance |  | ['Fall'] | BAC3 | Bordeaux | 12000 | 5.0 | Both |
+| KEDGE Business School | MSc Corporate Finance |  | ['Fall'] | BAC3 | Bordeaux | 12000 | 5.0 | Both |
+| ESG FINANCE (GALILEO Group) | BTS Banque, Conseiller de Clientèle |  | ['Fall'] | BAC2 | Paris | 0 | 1.0 | French |
+| ESG FINANCE (GALILEO Group) | Bachelor Finance - Gestion/Finance/ |  | ['Fall'] | BAC2 | Paris | 0 | 1.0 | French |
+| ESG FINANCE (GALILEO Group) | Mastère Audit et Contrôle de Gestion |  | ['Fall'] | BAC3 | Paris | 0 | 2.0 | French |
+| Paris School of Business | MSc in International Finance |  | ['Fall'] | BAC3 | Paris | 12000 | 5.0 | English |
+| ESAM (IGENSIA Group) | MSc Expert Financier |  | ['Fall'] | BAC3 | Paris | 12000 | 5.0 | French |
+| EXCELIA Business School | Master in Management (Master Grande Ecole) - All Masters of Science are available/ |  | ['Fall'] | BAC3 | Bordeaux | 0 | 2.0 | French |
+| EXCELIA Business School | MSc in Sustainable Finance |  | ['Fall'] | BAC3 | Bordeaux | 12000 | 5.0 | Both |
+
+Please note that this is not an exhaustive list, and there may be other finance-related programs available in France that are not included here.",99667d9b-6c45-40b7-ab6b-e1d2186fcd93
+ahmed,i want finance programs in france,"This information is sourced directly from the provided database.
+
+Here are some finance-related programs available in France:
+
+1. **ISC Paris Grande École de Commerce**:
+	* Master in Management (Master Grande Ecole) - International Business Management/All MSc are available/
+	* MSc Marketing et Communication Responsables
+	* MSc Finance & Risk management
+2. **European Business School (GA ÉDUCATION)**:
+	* Programme Grande École - International Corporate Finance / Banking & Finance /
+	* MBA spécialisé International Finance & Business
+3. **IDRAC (FIGS Group)**:
+	* Master in Management (Master Grande École) - Data management & business anaytics/Marketing digital & innovation /International business development/
+	* MBA Ingénierie d'affaires
+4. **KEDGE Business School**:
+	* MSc Banking & Finance
+	* MSc Corporate Finance
+5. **ESG FINANCE (GALILEO Group)**:
+	* BTS Banque, Conseiller de Clientèle
+	* Bachelor Finance - Gestion/Finance/
+	* Mastère Audit et Contrôle de Gestion
+6. **Paris School of Business**:
+	* MSc in International Finance
+7. **ESAM (IGENSIA Group)**:
+	* MSc Expert Financier
+8. **EXCELIA Business School**:
+	* Master in Management (Master Grande Ecole) - All Masters of Science are available/
+	* MSc in Sustainable Finance
+
+Please note that this is not an exhaustive list, and there may be other finance-related programs available in France that are not included here.",3d3ea7b8-19a3-410b-968a-1cbc5544f90e
+Beshoy,hi,"Hello! I'm StudentGator Bot, here to assist the counselling/sales team in helping students find their ideal school match. How can I help you today?",c3e5d47c-0738-4e32-9f21-d4d0c6a51a1e
