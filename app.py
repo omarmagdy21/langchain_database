@@ -48,7 +48,7 @@ def plot_leaderboard(df):
         y="Number of prompts",
         text="Number of prompts",
         color="Number of prompts",
-        color_continuous_scale="dark purples",  # Use "purples" color scale
+        color_continuous_scale="purples",  # Use "purples" color scale
         title="Leaderboard - Student Gator",
     )
 
