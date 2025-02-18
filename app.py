@@ -61,6 +61,10 @@ def plot_leaderboard(df):
     ax.tick_params(axis='x', rotation=45, colors=text_color, labelsize=12)
     ax.tick_params(axis='y', colors=text_color, labelsize=12)
 
+    # Set y-axis ticks to whole numbers
+    max_count = user_counts.max()  # Get the maximum count
+    ax.set_yticks(range(0, max_count + 1))  # Set ticks from 0 to max_count + 1
+
     # Grid styling
     ax.grid(axis="y", linestyle="--", alpha=0.6, color="black")
 
@@ -73,9 +77,6 @@ def main():
     # Fetch data
     df = fetch_data()
 
-    # Display the DataFrame
-    st.write("### Data Overview")
-    st.dataframe(df)
 
     # Plot and display the leaderboard
     st.write("### Leaderboard")
