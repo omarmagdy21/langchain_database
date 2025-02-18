@@ -74,7 +74,7 @@ def plot_leaderboard(df):
 
     # Update text on bars for better readability
     fig.update_traces(
-        textfont=dict(size=14, color="white"),  # Set text color to white for contrast
+        textfont=dict(size=14, color="black"),  # Set text color to white for contrast
         textposition="outside",  # Position text outside the bars
     )
 
