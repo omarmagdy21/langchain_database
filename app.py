@@ -48,7 +48,7 @@ def plot_leaderboard(df):
         y="Number of Records",
         text="Number of Records",
         color="Number of Records",
-        color_continuous_scale="plasma",  # Stylish gradient color
+        color_continuous_scale="Purples",  # Bright purple to dark purple
         title="Leaderboard - Student Gator",
     )
 
@@ -56,12 +56,13 @@ def plot_leaderboard(df):
     fig.update_layout(
         plot_bgcolor="#F9F9F9",
         paper_bgcolor="#FFFFFF",
-        title_font=dict(size=20, color="#773095"),
+        title_font=dict(size=20, color="black", family="Arial"),
+        title_x=0.5,  # Center the title
         xaxis_title="Username",
         yaxis_title="Number of Records",
         xaxis=dict(tickangle=-45, showgrid=False),
         yaxis=dict(showgrid=True, gridcolor="lightgray"),
-        font=dict(size=14),
+        font=dict(size=14, color="black"),  # Black text
     )
 
     return fig
