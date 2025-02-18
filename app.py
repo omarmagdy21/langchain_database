@@ -65,9 +65,6 @@ def plot_leaderboard(df):
     max_count = user_counts.max()  # Get the maximum count
     ax.set_yticks(range(0, max_count + 1))  # Set ticks from 0 to max_count + 1
 
-    # Grid styling
-    ax.grid(axis="y", linestyle="--", alpha=0.6, color="black")
-
     return fig
 
 # Streamlit app
@@ -85,7 +82,7 @@ def main():
 
     # Auto-refresh every 60 seconds
     time.sleep(60)
-    st.experimental_rerun()
+    st.rerun()
 
 if __name__ == "__main__":
     main()
