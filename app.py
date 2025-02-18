@@ -48,7 +48,7 @@ def plot_leaderboard(df):
         y="Number of prompts",
         text="Number of prompts",
         color="Number of prompts",
-        color_continuous_scale="purples",  # Use "purples" color scale
+        color_continuous_scale=[(0, "#E5E5E5"), (1, "#4B0082")],  # Adjusting color scale for visibility
         title="Leaderboard - Student Gator",
     )
 
@@ -57,6 +57,7 @@ def plot_leaderboard(df):
         plot_bgcolor="#F9F9F9",
         paper_bgcolor="#FFFFFF",
         title_font=dict(size=20, color="#773095"),
+        coloraxis_colorbar=dict(title_font=dict(color="black")),  # Set color bar title to black
         xaxis=dict(
             tickangle=-45, 
             showgrid=False,
@@ -74,12 +75,11 @@ def plot_leaderboard(df):
 
     # Update text on bars for better readability
     fig.update_traces(
-        textfont=dict(size=14, color="black"),  # Set text color to white for contrast
+        textfont=dict(size=14, color="black"),  # Set text color to black for contrast
         textposition="outside",  # Position text outside the bars
     )
 
     return fig
-
 
 # Streamlit app
 def main():
