@@ -39,15 +39,15 @@ def fetch_data():
 # Function to plot the leaderboard using Plotly
 def plot_leaderboard(df):
     user_counts = df["username"].value_counts().reset_index()
-    user_counts.columns = ["Username", "Number of Records"]
+    user_counts.columns = ["Username", "Number of prompts"]
 
     # Create an interactive bar chart with Plotly
     fig = px.bar(
         user_counts,
         x="Username",
-        y="Number of Records",
-        text="Number of Records",
-        color="Number of Records",
+        y="Number of prompts",
+        text="Number of prompts",
+        color="Number of prompts",
         color_continuous_scale="purples",  # Use "purples" color scale
         title="Leaderboard - Student Gator",
     )
@@ -58,7 +58,7 @@ def plot_leaderboard(df):
         paper_bgcolor="#FFFFFF",
         title_font=dict(size=20, color="#773095"),
         xaxis_title="Username",
-        yaxis_title="Number of Records",
+        yaxis_title="Number of prompts",
         xaxis=dict(
             tickangle=-45, 
             showgrid=False,
