@@ -69,6 +69,7 @@ def plot_leaderboard(df):
             gridcolor="lightgray",
             tickfont=dict(color="black"),  # Set y-axis text color to black
             title=dict(text="Number of prompts", font=dict(color="black")),  # Set y-axis title color to black
+            range=[0, user_counts["Number of prompts"].max() + 2],  # Extend y-axis max by 2
         ),
         font=dict(size=14, color="black"),  # Set global font color to black
     )
