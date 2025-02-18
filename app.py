@@ -1,6 +1,6 @@
 import pandas as pd
 from langsmith import Client
-import matplotlib.pyplot as plt
+import plotly.express as px
 import streamlit as st
 import time
 
@@ -36,34 +36,33 @@ def fetch_data():
 
     return df
 
-# Function to plot the leaderboard
+# Function to plot the leaderboard using Plotly
 def plot_leaderboard(df):
-    user_counts = df["username"].value_counts()
+    user_counts = df["username"].value_counts().reset_index()
+    user_counts.columns = ["Username", "Number of Records"]
 
-    # Define company colors
-    background_color = "#ffffff"  # Dark purple
-    text_color = "black"
-    bar_color = "#773095"  # Lighter purple shade
+    # Create an interactive bar chart with Plotly
+    fig = px.bar(
+        user_counts,
+        x="Username",
+        y="Number of Records",
+        text="Number of Records",
+        color="Number of Records",
+        color_continuous_scale="plasma",  # Stylish gradient color
+        title="Leaderboard - Student Gator",
+    )
 
-    # Create the plot
-    fig, ax = plt.subplots(figsize=(12, 6), facecolor=background_color, dpi=400)
-    ax.set_facecolor(background_color)
-
-    # Plot bar chart
-    user_counts.plot(kind="bar", color=bar_color, edgecolor="white", ax=ax)
-
-    # Set labels and title with custom colors
-    ax.set_xlabel("Username", fontsize=14, color=text_color)
-    ax.set_ylabel("Number of Records", fontsize=14, color=text_color)
-    ax.set_title("Leaderboard - Student Gator", fontsize=16, color=text_color)
-
-    # Modify tick colors
-    ax.tick_params(axis='x', rotation=45, colors=text_color, labelsize=12)
-    ax.tick_params(axis='y', colors=text_color, labelsize=12)
-
-    # Set y-axis ticks to whole numbers
-    max_count = user_counts.max()  # Get the maximum count
-    ax.set_yticks(range(0, max_count + 1))  # Set ticks from 0 to max_count + 1
+    # Update layout for better visual appeal
+    fig.update_layout(
+        plot_bgcolor="#F9F9F9",
+        paper_bgcolor="#FFFFFF",
+        title_font=dict(size=20, color="#773095"),
+        xaxis_title="Username",
+        yaxis_title="Number of Records",
+        xaxis=dict(tickangle=-45, showgrid=False),
+        yaxis=dict(showgrid=True, gridcolor="lightgray"),
+        font=dict(size=14),
+    )
 
     return fig
 
@@ -74,11 +73,10 @@ def main():
     # Fetch data
     df = fetch_data()
 
-
     # Plot and display the leaderboard
     st.write("### Leaderboard")
     fig = plot_leaderboard(df)
-    st.pyplot(fig)
+    st.plotly_chart(fig, use_container_width=True)
 
     # Auto-refresh every 60 seconds
     time.sleep(60)
