@@ -48,7 +48,7 @@ def plot_leaderboard(df):
         y="Number of prompts",
         text="Number of prompts",
         color="Number of prompts",
-        color_continuous_scale=[(0, "#ba5fd7"), (1, "#580075")],  # Adjusting color scale for visibility
+        color_continuous_scale=[(0, "#cfacda"), (1, "#4c0264")],  # Adjusting color scale for visibility
         title="Leaderboard - Student Gator",
     )
 
