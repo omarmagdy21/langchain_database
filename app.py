@@ -48,11 +48,11 @@ def plot_leaderboard(df):
         y="Number of Records",
         text="Number of Records",
         color="Number of Records",
-        color_continuous_scale="purples",  # Updated to "purples" color scale
+        color_continuous_scale="purples",  # Use "purples" color scale
         title="Leaderboard - Student Gator",
     )
 
-    # Update layout for better visual appeal
+    # Update layout for better visual appeal and readability
     fig.update_layout(
         plot_bgcolor="#F9F9F9",
         paper_bgcolor="#FFFFFF",
@@ -69,7 +69,13 @@ def plot_leaderboard(df):
             gridcolor="lightgray",
             tickfont=dict(color="black"),  # Set y-axis text color to black
         ),
-        font=dict(size=14),
+        font=dict(size=14, color="black"),  # Set global font color to black
+    )
+
+    # Update text on bars for better readability
+    fig.update_traces(
+        textfont=dict(size=14, color="white"),  # Set text color to white for contrast
+        textposition="outside",  # Position text outside the bars
     )
 
     return fig
